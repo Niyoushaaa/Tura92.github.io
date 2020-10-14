@@ -2,14 +2,14 @@
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: default
-permalink: /ha78ijkt
+permalink: /en
 ---
 
 <header>
     <div class="profile-page sidebar-collapse">
       <nav class="navbar navbar-expand-lg fixed-top navbar-transparent bg-primary" color-on-scroll="400">
         <div class="container">
-          <div class="navbar-translate"><a class="navbar-brand" href="#" rel="tooltip">Niyoushas CV</a>
+          <div class="navbar-translate"><a class="navbar-brand" href="#" rel="tooltip">Niyoushas CV in English</a>
             <button class="navbar-toggler navbar-toggler" type="button" data-toggle="collapse" data-target="#navigation"
               aria-controls="navigation" aria-expanded="false" aria-label="Toggle navigation"><span
                 class="navbar-toggler-bar bar1"></span><span class="navbar-toggler-bar bar2"></span><span
@@ -44,18 +44,6 @@ permalink: /ha78ijkt
                   class="btn btn-primary smooth-scroll mr-2" href="#contact" data-aos="zoom-in"
                   data-aos-anchor="data-aos-anchor">Hire Me</a><a class="btn btn-primary" href="#" data-aos="zoom-in"
                   data-aos-anchor="data-aos-anchor">Download CV</a>
-              </div>
-            </div>
-            <div class="section">
-              <div class="container">
-                <div class="button-container"><a class="btn btn-default btn-round btn-lg btn-icon" href="#"
-                    rel="tooltip" title="Follow me on Facebook"><i class="fa fa-facebook"></i></a><a
-                    class="btn btn-default btn-round btn-lg btn-icon" href="#" rel="tooltip"
-                    title="Follow me on Twitter"><i class="fa fa-twitter"></i></a><a
-                    class="btn btn-default btn-round btn-lg btn-icon" href="#" rel="tooltip"
-                    title="Follow me on Google+"><i class="fa fa-google-plus"></i></a><a
-                    class="btn btn-default btn-round btn-lg btn-icon" href="#" rel="tooltip"
-                    title="Follow me on Instagram"><i class="fa fa-instagram"></i></a></div>
               </div>
             </div>
           </div>
@@ -630,17 +618,9 @@ permalink: /ha78ijkt
           target="_blank">TemplateFlip</a></p>
     </div>
   </footer>
-
-
   <script src="js/core/jquery.3.2.1.min.js"></script>
   <script src="js/core/popper.min.js"></script>
   <script src="js/core/bootstrap.min.js"></script>
   <script src="js/now-ui-kit.js?v=1.1.0"></script>
   <script src="js/aos.js"></script>
   <script src="scripts/main.js"></script>
-
-
-some text and [here is possible to download the file in PDF][1]
-
-
-[1]: {{ site.url }}/download/lebenslauf.pdf
