@@ -67,7 +67,7 @@ permalink: /ha78ijkt
               </div>
               <div class="col-lg-6 col-md-12">
                 <div class="card-body">
-                  <div class="h4 mt-0 title">Basic Information</div>
+                  <div class="h4 mt-0 title">Allgemeine Informationen</div>
                   <div class="row">
                     <div class="col-sm-4"><strong class="text-uppercase">Age:</strong></div>
                     <div class="col-sm-8">24</div>
