@@ -551,7 +551,7 @@ permalink: /ha78ijkt
                     <div class="row">
                       <div class="col-md-6">
                         <div class="card-body">
-                          <form action="https://getform.io/f/45ec6366-fea0-4c34-b60c-5c2a34b2698d" method="POST">
+                          <form action="https://formspree.io/f/mzbkevqn" method="POST">
                             <div class="p pb-3"><strong>Feel free to contact me </strong>
                             </div>
                             <div class="row mb-3">
