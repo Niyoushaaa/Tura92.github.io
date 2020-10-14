@@ -3,6 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 value: Hello world
 layout: default
+permalink: /
 ---
 
 <header>
@@ -551,7 +552,7 @@ layout: default
                     <div class="row">
                       <div class="col-md-6">
                         <div class="card-body">
-                          <form action="https://formspree.io/your@email.com" method="POST">
+                          <form action="https://formspree.io/f/mzbkevqn" method="POST">
                             <div class="p pb-3"><strong>Feel free to contact me </strong>
                             </div>
                             <div class="row mb-3">
