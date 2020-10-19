@@ -1,6 +1,4 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: default
 permalink: /
 ---
@@ -17,11 +15,12 @@ permalink: /
           </div>
           <div class="collapse navbar-collapse justify-content-end" id="navigation">
             <ul class="navbar-nav">
-              <li class="nav-item"><a class="nav-link smooth-scroll" href="#about">About</a></li>
+              <li class="nav-item"><a class="nav-link smooth-scroll" href="#about">Über Mich</a></li>
               <li class="nav-item"><a class="nav-link smooth-scroll" href="#skill">Skills</a></li>
-              <li class="nav-item"><a class="nav-link smooth-scroll" href="#experience">Experience</a></li>
-              <li class="nav-item"><a class="nav-link smooth-scroll" href="#education">Education</a></li>
-              <li class="nav-item"><a class="nav-link smooth-scroll" href="#contact">Contact</a></li>
+              <li class="nav-item"><a class="nav-link smooth-scroll" href="#experience">Erfahrung</a></li>
+              <li class="nav-item"><a class="nav-link smooth-scroll" href="#education">Bildung</a></li>
+              <li class="nav-item"><a class="nav-link smooth-scroll" href="#hobbies">Hobbies</a></li>
+              <li class="nav-item"><a class="nav-link smooth-scroll" href="#contact">Kontakt</a></li>
               <li>
                 <div class="d-flex flex-row justify-content-start ml-3">
                   <div class="p-2">
@@ -31,7 +30,7 @@ permalink: /
                   </div>
                   <div class="p-2">
                     <a href="/ir">
-                      <img src="images/iran-flag-icon.png" style="padding-bottom: 6px" alt="England" />
+                      <img src="images/iran-flag-icon.png" style="padding-bottom: 6px" alt="Iran" />
                     </a>
                   </div>
                 </div>
@@ -53,10 +52,9 @@ permalink: /
               <div class="content-center">
                 <div class="cc-profile-image"><a href="#"><img src="images/niyousha.jpg" alt="Image" /></a></div>
                 <div class="h2 title">Niyousha Homay Nikfar</div>
-                <p class="category text-white">Bio-Medicine-Technologies Student</p><a
-                  class="btn btn-primary smooth-scroll mr-2" href="#contact" data-aos="zoom-in"
-                  data-aos-anchor="data-aos-anchor">Contact Me</a><a class="btn btn-primary" href="/download/lebenslauf.pdf" data-aos="zoom-in"
-                  data-aos-anchor="data-aos-anchor" target="_blank">Download CV</a>
+                <p class="category text-white">Medizintechnikerin</p>
+                  
+                  <a class="btn btn-primary" href="/download/lebenslauf.pdf" data-aos="zoom-in" data-aos-anchor="data-aos-anchor" target="_blank">Download CV</a>
               </div>
             </div>
           </div>
@@ -314,7 +312,96 @@ permalink: /
             </div>
           </div>
         </div>
-      </div>      
+      </div> 
+      <div class="section" id="hobbies">
+        <div class="container cc-education">
+          <div class="h4 text-center mb-4 title">Hobbies und Freizeit</div>
+          <div class="card">
+            <div class="row">
+              <div class="col-md-3" data-aos="fade-right" data-aos-offset="50" data-aos-duration="500">
+                <div class="card-body cc-education-header hobbie-image">
+                  <img src="images/book-image.png">
+                </div>
+              </div>
+              <div class="col-md-9" data-aos="fade-left" data-aos-offset="50" data-aos-duration="500">
+                <div class="card-body">
+                  <div class="h5">Master of Information Technology</div>
+                  <p class="category">University of Computer Science</p>
+                  <p>Euismod massa scelerisque suspendisse fermentum habitant vitae ullamcorper magna
+                    quam iaculis, tristique sapien taciti mollis interdum sagittis libero nunc
+                    inceptos tellus, hendrerit vel eleifend primis lectus quisque cubilia sed
+                    mauris. Lacinia porta vestibulum diam integer quisque eros pulvinar curae,
+                    curabitur feugiat arcu vivamus parturient aliquet laoreet at, eu etiam pretium
+                    molestie ultricies sollicitudin dui.</p>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="card">
+            <div class="row">
+              <div class="col-md-3" data-aos="fade-right" data-aos-offset="50" data-aos-duration="500">
+                <div class="card-body cc-education-header hobbie-image">
+                  <img src="images/fitness-image.png">
+                </div>
+              </div>
+              <div class="col-md-9" data-aos="fade-left" data-aos-offset="50" data-aos-duration="500">
+                <div class="card-body">
+                  <div class="h5">Bachelor of Computer Science</div>
+                  <p class="category">University of Computer Science</p>
+                  <p>Euismod massa scelerisque suspendisse fermentum habitant vitae ullamcorper magna
+                    quam iaculis, tristique sapien taciti mollis interdum sagittis libero nunc
+                    inceptos tellus, hendrerit vel eleifend primis lectus quisque cubilia sed
+                    mauris. Lacinia porta vestibulum diam integer quisque eros pulvinar curae,
+                    curabitur feugiat arcu vivamus parturient aliquet laoreet at, eu etiam pretium
+                    molestie ultricies sollicitudin dui.</p>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="card">
+            <div class="row">
+              <div class="col-md-3" data-aos="fade-right" data-aos-offset="50" data-aos-duration="500">
+                <div class="card-body cc-education-header hobbie-image">
+                  <img src="images/guitar-image.png">
+                </div>
+              </div>
+              <div class="col-md-9" data-aos="fade-left" data-aos-offset="50" data-aos-duration="500">
+                <div class="card-body">
+                  <div class="h5">Science and Mathematics</div>
+                  <p class="category">School of Secondary board</p>
+                  <p>Euismod massa scelerisque suspendisse fermentum habitant vitae ullamcorper magna
+                    quam iaculis, tristique sapien taciti mollis interdum sagittis libero nunc
+                    inceptos tellus, hendrerit vel eleifend primis lectus quisque cubilia sed
+                    mauris. Lacinia porta vestibulum diam integer quisque eros pulvinar curae,
+                    curabitur feugiat arcu vivamus parturient aliquet laoreet at, eu etiam pretium
+                    molestie ultricies sollicitudin dui.</p>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="card">
+            <div class="row">
+              <div class="col-md-3" data-aos="fade-right" data-aos-offset="50" data-aos-duration="500">
+                <div class="card-body cc-education-header hobbie-image">
+                  <img src="images/poker-image.png">
+                </div>
+              </div>
+              <div class="col-md-9" data-aos="fade-left" data-aos-offset="50" data-aos-duration="500">
+                <div class="card-body">
+                  <div class="h5">Science and Mathematics</div>
+                  <p class="category">School of Secondary board</p>
+                  <p>Euismod massa scelerisque suspendisse fermentum habitant vitae ullamcorper magna
+                    quam iaculis, tristique sapien taciti mollis interdum sagittis libero nunc
+                    inceptos tellus, hendrerit vel eleifend primis lectus quisque cubilia sed
+                    mauris. Lacinia porta vestibulum diam integer quisque eros pulvinar curae,
+                    curabitur feugiat arcu vivamus parturient aliquet laoreet at, eu etiam pretium
+                    molestie ultricies sollicitudin dui.</p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>     
       <div class="section" id="contact">
           <div class="container">
             <div class="cc-contact">
@@ -365,7 +452,7 @@ permalink: /
                             </div>
                             <div class="row">
                               <div class="col">
-                                <button class="btn btn-primary" type="submit">Send</button>
+                                <button class="btn btn-info" type="submit">Send</button>
                               </div>
                             </div>
                           </form>
