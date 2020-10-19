@@ -2,7 +2,7 @@
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: default
-permalink: /
+permalink: /ir
 ---
 
 <header>
@@ -22,6 +22,20 @@ permalink: /
               <li class="nav-item"><a class="nav-link smooth-scroll" href="#experience">Experience</a></li>
               <li class="nav-item"><a class="nav-link smooth-scroll" href="#education">Education</a></li>
               <li class="nav-item"><a class="nav-link smooth-scroll" href="#contact">Contact</a></li>
+              <li>
+                <div class="d-flex flex-row justify-content-start ml-3">
+                  <div class="p-2">
+                    <a href="/">
+                      <img src="images/germany-flag-icon.png" style="padding-bottom: 6px" alt="England" />
+                    </a>
+                  </div>
+                  <div class="p-2">
+                    <a href="/en">
+                      <img src="images/england-flag-icon.png" style="padding-bottom: 6px" alt="England" />
+                    </a>
+                  </div>
+                </div>
+              </li>
             </ul>
           </div>
         </div>

@@ -2,14 +2,14 @@
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: default
-permalink: /en
+permalink: /
 ---
 
 <header>
     <div class="profile-page sidebar-collapse">
       <nav class="navbar navbar-expand-lg fixed-top navbar-transparent bg-primary" color-on-scroll="400">
         <div class="container">
-          <div class="navbar-translate"><a class="navbar-brand" href="#" rel="tooltip">Niyoushas CV in English</a>
+          <div class="navbar-translate"><a class="navbar-brand" href="#" rel="tooltip">Niyoushas CV</a>
             <button class="navbar-toggler navbar-toggler" type="button" data-toggle="collapse" data-target="#navigation"
               aria-controls="navigation" aria-expanded="false" aria-label="Toggle navigation"><span
                 class="navbar-toggler-bar bar1"></span><span class="navbar-toggler-bar bar2"></span><span
@@ -19,10 +19,23 @@ permalink: /en
             <ul class="navbar-nav">
               <li class="nav-item"><a class="nav-link smooth-scroll" href="#about">About</a></li>
               <li class="nav-item"><a class="nav-link smooth-scroll" href="#skill">Skills</a></li>
-              <li class="nav-item"><a class="nav-link smooth-scroll" href="#portfolio">Portfolio</a></li>
-              <li class="nav-item"><a class="nav-link smooth-scroll" href="#experience">Experience</a>
-              </li>
+              <li class="nav-item"><a class="nav-link smooth-scroll" href="#experience">Experience</a></li>
+              <li class="nav-item"><a class="nav-link smooth-scroll" href="#education">Education</a></li>
               <li class="nav-item"><a class="nav-link smooth-scroll" href="#contact">Contact</a></li>
+              <li>
+                <div class="d-flex flex-row justify-content-start ml-3">
+                  <div class="p-2">
+                    <a href="/en">
+                      <img src="images/england-flag-icon.png" style="padding-bottom: 6px" alt="England" />
+                    </a>
+                  </div>
+                  <div class="p-2">
+                    <a href="/ir">
+                      <img src="images/iran-flag-icon.png" style="padding-bottom: 6px" alt="England" />
+                    </a>
+                  </div>
+                </div>
+              </li>
             </ul>
           </div>
         </div>
@@ -34,7 +47,7 @@ permalink: /en
       <div class="profile-page">
         <div class="wrapper">
           <div class="page-header page-header-small" filter-color="green">
-            <div class="page-header-image" data-parallax="true" style="background-image: url('images/cc-bg-1.jpg');">
+            <div class="page-header-image" data-parallax="true" style="background-image: url('images/bg-1.jpeg');">
             </div>
             <div class="container">
               <div class="content-center">
@@ -42,8 +55,8 @@ permalink: /en
                 <div class="h2 title">Niyousha Homay Nikfar</div>
                 <p class="category text-white">Bio-Medicine-Technologies Student</p><a
                   class="btn btn-primary smooth-scroll mr-2" href="#contact" data-aos="zoom-in"
-                  data-aos-anchor="data-aos-anchor">Hire Me</a><a class="btn btn-primary" href="#" data-aos="zoom-in"
-                  data-aos-anchor="data-aos-anchor">Download CV</a>
+                  data-aos-anchor="data-aos-anchor">Contact Me</a><a class="btn btn-primary" href="/download/lebenslauf.pdf" data-aos="zoom-in"
+                  data-aos-anchor="data-aos-anchor" target="_blank">Download CV</a>
               </div>
             </div>
           </div>
@@ -67,7 +80,7 @@ permalink: /en
               </div>
               <div class="col-lg-6 col-md-12">
                 <div class="card-body">
-                  <div class="h4 mt-0 title">Basic Information</div>
+                  <div class="h4 mt-0 title">Allgemeine Informationen</div>
                   <div class="row">
                     <div class="col-sm-4"><strong class="text-uppercase">Age:</strong></div>
                     <div class="col-sm-8">24</div>
@@ -163,165 +176,6 @@ permalink: /en
           </div>
         </div>
       </div>
-      <div class="section" id="portfolio">
-        <div class="container">
-          <div class="row">
-            <div class="col-md-6 ml-auto mr-auto">
-              <div class="h4 text-center mb-4 title">Portfolio</div>
-              <div class="nav-align-center">
-                <ul class="nav nav-pills nav-pills-primary" role="tablist">
-                  <li class="nav-item"><a class="nav-link active" data-toggle="tab" href="#web-development"
-                      role="tablist"><i class="fa fa-laptop" aria-hidden="true"></i></a></li>
-                  <li class="nav-item"><a class="nav-link" data-toggle="tab" href="#graphic-design" role="tablist"><i
-                        class="fa fa-picture-o" aria-hidden="true"></i></a></li>
-                  <li class="nav-item"><a class="nav-link" data-toggle="tab" href="#Photography" role="tablist"><i
-                        class="fa fa-camera" aria-hidden="true"></i></a></li>
-                </ul>
-              </div>
-            </div>
-          </div>
-          <div class="tab-content gallery mt-5">
-            <div class="tab-pane active" id="web-development">
-              <div class="ml-auto mr-auto">
-                <div class="row">
-                  <div class="col-md-6">
-                    <div class="cc-porfolio-image img-raised" data-aos="fade-up" data-aos-anchor-placement="top-bottom">
-                      <a href="#web-development">
-                        <figure class="cc-effect"><img src="images/project-1.jpg" alt="Image" />
-                          <figcaption>
-                            <div class="h4">Recent Project</div>
-                            <p>Web Development</p>
-                          </figcaption>
-                        </figure>
-                      </a></div>
-                    <div class="cc-porfolio-image img-raised" data-aos="fade-up" data-aos-anchor-placement="top-bottom">
-                      <a href="#web-development">
-                        <figure class="cc-effect"><img src="images/project-2.jpg" alt="Image" />
-                          <figcaption>
-                            <div class="h4">Startup Project</div>
-                            <p>Web Development</p>
-                          </figcaption>
-                        </figure>
-                      </a></div>
-                  </div>
-                  <div class="col-md-6">
-                    <div class="cc-porfolio-image img-raised" data-aos="fade-up" data-aos-anchor-placement="top-bottom">
-                      <a href="#web-development">
-                        <figure class="cc-effect"><img src="images/project-3.jpg" alt="Image" />
-                          <figcaption>
-                            <div class="h4">Food Order Project</div>
-                            <p>Web Development</p>
-                          </figcaption>
-                        </figure>
-                      </a></div>
-                    <div class="cc-porfolio-image img-raised" data-aos="fade-up" data-aos-anchor-placement="top-bottom">
-                      <a href="#web-development">
-                        <figure class="cc-effect"><img src="images/project-4.jpg" alt="Image" />
-                          <figcaption>
-                            <div class="h4">Web Advertising Project</div>
-                            <p>Web Development</p>
-                          </figcaption>
-                        </figure>
-                      </a></div>
-                  </div>
-                </div>
-              </div>
-            </div>
-            <div class="tab-pane" id="graphic-design" role="tabpanel">
-              <div class="ml-auto mr-auto">
-                <div class="row">
-                  <div class="col-md-6">
-                    <div class="cc-porfolio-image img-raised" data-aos="fade-up" data-aos-anchor-placement="top-bottom">
-                      <a href="#graphic-design">
-                        <figure class="cc-effect"><img src="images/graphic-design-1.jpg" alt="Image" />
-                          <figcaption>
-                            <div class="h4">Triangle Pattern</div>
-                            <p>Graphic Design</p>
-                          </figcaption>
-                        </figure>
-                      </a></div>
-                    <div class="cc-porfolio-image img-raised" data-aos="fade-up" data-aos-anchor-placement="top-bottom">
-                      <a href="#graphic-design">
-                        <figure class="cc-effect"><img src="images/graphic-design-2.jpg" alt="Image" />
-                          <figcaption>
-                            <div class="h4">Abstract Umbrella</div>
-                            <p>Graphic Design</p>
-                          </figcaption>
-                        </figure>
-                      </a></div>
-                  </div>
-                  <div class="col-md-6">
-                    <div class="cc-porfolio-image img-raised" data-aos="fade-up" data-aos-anchor-placement="top-bottom">
-                      <a href="#graphic-design">
-                        <figure class="cc-effect"><img src="images/graphic-design-3.jpg" alt="Image" />
-                          <figcaption>
-                            <div class="h4">Cube Surface Texture</div>
-                            <p>Graphic Design</p>
-                          </figcaption>
-                        </figure>
-                      </a></div>
-                    <div class="cc-porfolio-image img-raised" data-aos="fade-up" data-aos-anchor-placement="top-bottom">
-                      <a href="#graphic-design">
-                        <figure class="cc-effect"><img src="images/graphic-design-4.jpg" alt="Image" />
-                          <figcaption>
-                            <div class="h4">Abstract Line</div>
-                            <p>Graphic Design</p>
-                          </figcaption>
-                        </figure>
-                      </a></div>
-                  </div>
-                </div>
-              </div>
-            </div>
-            <div class="tab-pane" id="Photography" role="tabpanel">
-              <div class="ml-auto mr-auto">
-                <div class="row">
-                  <div class="col-md-6">
-                    <div class="cc-porfolio-image img-raised" data-aos="fade-up" data-aos-anchor-placement="top-bottom">
-                      <a href="#Photography">
-                        <figure class="cc-effect"><img src="images/photography-1.jpg" alt="Image" />
-                          <figcaption>
-                            <div class="h4">Photoshoot</div>
-                            <p>Photography</p>
-                          </figcaption>
-                        </figure>
-                      </a></div>
-                    <div class="cc-porfolio-image img-raised" data-aos="fade-up" data-aos-anchor-placement="top-bottom">
-                      <a href="#Photography">
-                        <figure class="cc-effect"><img src="images/photography-3.jpg" alt="Image" />
-                          <figcaption>
-                            <div class="h4">Wedding Photoshoot</div>
-                            <p>Photography</p>
-                          </figcaption>
-                        </figure>
-                      </a></div>
-                  </div>
-                  <div class="col-md-6">
-                    <div class="cc-porfolio-image img-raised" data-aos="fade-up" data-aos-anchor-placement="top-bottom">
-                      <a href="#Photography">
-                        <figure class="cc-effect"><img src="images/photography-2.jpg" alt="Image" />
-                          <figcaption>
-                            <div class="h4">Beach Photoshoot</div>
-                            <p>Photography</p>
-                          </figcaption>
-                        </figure>
-                      </a></div>
-                    <div class="cc-porfolio-image img-raised" data-aos="fade-up" data-aos-anchor-placement="top-bottom">
-                      <a href="#Photography">
-                        <figure class="cc-effect"><img src="images/photography-4.jpg" alt="Image" />
-                          <figcaption>
-                            <div class="h4">Nature Photoshoot</div>
-                            <p>Photography</p>
-                          </figcaption>
-                        </figure>
-                      </a></div>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
       <div class="section" id="experience">
         <div class="container cc-experience">
           <div class="h4 text-center mb-4 title">Work Experience</div>
@@ -390,7 +244,7 @@ permalink: /en
           </div>
         </div>
       </div>
-      <div class="section">
+      <div class="section" id="education">
         <div class="container cc-education">
           <div class="h4 text-center mb-4 title">Education</div>
           <div class="card">
@@ -460,86 +314,18 @@ permalink: /en
             </div>
           </div>
         </div>
-      </div>
-      <div class="section" id="reference">
-        <div class="container cc-reference">
-          <div class="h4 mb-4 text-center title">References</div>
-          <div class="card" data-aos="zoom-in">
-            <div class="carousel slide" id="cc-Indicators" data-ride="carousel">
-              <ol class="carousel-indicators">
-                <li class="active" data-target="#cc-Indicators" data-slide-to="0"></li>
-                <li data-target="#cc-Indicators" data-slide-to="1"></li>
-                <li data-target="#cc-Indicators" data-slide-to="2"></li>
-              </ol>
-              <div class="carousel-inner">
-                <div class="carousel-item active">
-                  <div class="row">
-                    <div class="col-lg-2 col-md-3 cc-reference-header"><img src="images/reference-image-1.jpg"
-                        alt="Image" />
-                      <div class="h5 pt-2">Aiyana</div>
-                      <p class="category">CEO / WEBM</p>
-                    </div>
-                    <div class="col-lg-10 col-md-9">
-                      <p> Habitasse venenatis commodo tempor eleifend arcu sociis sollicitudin
-                        ante pulvinar ad, est porta cras erat ullamcorper volutpat metus duis
-                        platea convallis, tortor primis ac quisque etiam luctus nisl nullam
-                        fames. Ligula purus suscipit tempus nascetur curabitur donec nam
-                        ullamcorper, laoreet nullam mauris dui aptent facilisis neque elementum
-                        ac, risus semper felis parturient fringilla rhoncus eleifend.</p>
-                    </div>
-                  </div>
-                </div>
-                <div class="carousel-item">
-                  <div class="row">
-                    <div class="col-lg-2 col-md-3 cc-reference-header"><img src="images/reference-image-2.jpg"
-                        alt="Image" />
-                      <div class="h5 pt-2">Braiden</div>
-                      <p class="category">CEO / Creativem</p>
-                    </div>
-                    <div class="col-lg-10 col-md-9">
-                      <p> Habitasse venenatis commodo tempor eleifend arcu sociis sollicitudin
-                        ante pulvinar ad, est porta cras erat ullamcorper volutpat metus duis
-                        platea convallis, tortor primis ac quisque etiam luctus nisl nullam
-                        fames. Ligula purus suscipit tempus nascetur curabitur donec nam
-                        ullamcorper, laoreet nullam mauris dui aptent facilisis neque elementum
-                        ac, risus semper felis parturient fringilla rhoncus eleifend.</p>
-                    </div>
-                  </div>
-                </div>
-                <div class="carousel-item">
-                  <div class="row">
-                    <div class="col-lg-2 col-md-3 cc-reference-header"><img src="images/reference-image-3.jpg"
-                        alt="Image" />
-                      <div class="h5 pt-2">Alexander</div>
-                      <p class="category">CEO / Webnote</p>
-                    </div>
-                    <div class="col-lg-10 col-md-9">
-                      <p> Habitasse venenatis commodo tempor eleifend arcu sociis sollicitudin
-                        ante pulvinar ad, est porta cras erat ullamcorper volutpat metus duis
-                        platea convallis, tortor primis ac quisque etiam luctus nisl nullam
-                        fames. Ligula purus suscipit tempus nascetur curabitur donec nam
-                        ullamcorper, laoreet nullam mauris dui aptent facilisis neque elementum
-                        ac, risus semper felis parturient fringilla rhoncus eleifend.</p>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
+      </div>      
       <div class="section" id="contact">
-        <div class="cc-contact-information" style="background-image: url('images/staticmap.png');">
           <div class="container">
             <div class="cc-contact">
               <div class="row">
-                <div class="col-md-9">
+                <div class="col-md-12">
                   <div class="card mb-0" data-aos="zoom-in">
                     <div class="h4 text-center title">Contact Me</div>
                     <div class="row">
                       <div class="col-md-6">
                         <div class="card-body">
-                          <form action="https://getform.io/f/45ec6366-fea0-4c34-b60c-5c2a34b2698d" method="POST">
+                          <form action="https://formspree.io/f/mzbkevqn" method="POST">
                             <div class="p pb-3"><strong>Feel free to contact me </strong>
                             </div>
                             <div class="row mb-3">
@@ -601,23 +387,14 @@ permalink: /en
               </div>
             </div>
           </div>
-        </div>
       </div>
     </div>
   </div>
   <footer class="footer">
-    <div class="container text-center"><a class="cc-facebook btn btn-link" href="#"><i class="fa fa-facebook fa-2x "
-          aria-hidden="true"></i></a><a class="cc-twitter btn btn-link " href="#"><i class="fa fa-twitter fa-2x "
-          aria-hidden="true"></i></a><a class="cc-google-plus btn btn-link" href="#"><i class="fa fa-google-plus fa-2x"
-          aria-hidden="true"></i></a><a class="cc-instagram btn btn-link" href="#"><i class="fa fa-instagram fa-2x "
-          aria-hidden="true"></i></a>
-    </div>
-    <div class="h4 title text-center">Anthony Barnett</div>
-    <div class="text-center text-muted">
-      <p>&copy; Creative CV. All rights reserved.<br>Design - <a class="credit" href="https://templateflip.com"
-          target="_blank">TemplateFlip</a></p>
-    </div>
+    
   </footer>
+
+
   <script src="js/core/jquery.3.2.1.min.js"></script>
   <script src="js/core/popper.min.js"></script>
   <script src="js/core/bootstrap.min.js"></script>
