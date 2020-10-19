@@ -1,0 +1,2 @@
+gem uninstall eventmachine
+gem install eventmachine --platform ruby
