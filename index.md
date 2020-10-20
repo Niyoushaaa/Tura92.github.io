@@ -46,14 +46,13 @@ permalink: /
       <div class="profile-page">
         <div class="wrapper">
           <div class="page-header page-header-small" filter-color="green">
-            <div class="page-header-image" data-parallax="true" style="background-image: url('images/bg-1.jpeg');">
+            <div class="page-header-image" data-parallax="true" style="background-image: url('images/bg-2.jpg');">
             </div>
             <div class="container">
               <div class="content-center">
                 <div class="cc-profile-image"><a href="#"><img src="images/niyousha.jpg" alt="Image" /></a></div>
                 <div class="h2 title">Niyousha Homay Nikfar</div>
                 <p class="category text-white">Medizintechnikerin</p>
-                  
                   <a class="btn btn-primary" href="/download/lebenslauf.pdf" data-aos="zoom-in" data-aos-anchor="data-aos-anchor" target="_blank">Download CV</a>
               </div>
             </div>
