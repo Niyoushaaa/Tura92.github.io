@@ -18,14 +18,14 @@ permalink: /
               <li class="nav-item"><a class="nav-link smooth-scroll" href="#about">Über Mich</a></li>
               <li class="nav-item"><a class="nav-link smooth-scroll" href="#skill">Skills</a></li>
               <li class="nav-item"><a class="nav-link smooth-scroll" href="#education">Bildung</a></li>
-              <li class="nav-item"><a class="nav-link smooth-scroll" href="#experience">Erfahrung</a></li>
+              <li class="nav-item"><a class="nav-link smooth-scroll" href="#experience">Nebentätigkeiten</a></li>
               <li class="nav-item"><a class="nav-link smooth-scroll" href="#hobbies">Hobbies</a></li>
               <li class="nav-item"><a class="nav-link smooth-scroll" href="#contact">Kontakt</a></li>
               <li>
                 <div class="d-flex flex-row justify-content-start ml-3">
                   <div class="p-2">
                     <a href="/en">
-                      <img src="images/england-flag-icon.png" style="padding-bottom: 6px" alt="England" />
+                      <img src="images/england-flag-icon.png" style="padding-bottom: 6px" alt="English" />
                     </a>
                   </div>            
                 </div>
@@ -64,7 +64,7 @@ permalink: /
                   <p>Hallo! Ich bin Niyousha Homay Nikfar. Medizintechnische Ingenieurin und Entwicklerin.</p>
                   <p>Mein Traum ist es nach meinem Studium etwas zu entwickeln, dass die Welt verändert. Ich möchte mein
                   Wissen dazu nutzen so vielen Menschen zu helfen wie ich nur kann. Ich bin engagiert, risikofreudig und verlässlich.
-                  Bleib eine Weile und erschaffe dir dein Bild von mir. Willkommen auf meiner CV-Site!</p>
+                  Bleib eine Weile und mach dir dein Bild von mir. Willkommen auf meiner Internetseite!</p>
                 </div>
               </div>
               <div class="col-lg-6 col-md-12">
@@ -84,7 +84,7 @@ permalink: /
                   </div>
                   <div class="row mt-3">
                     <div class="col-sm-4"><strong class="text-uppercase">Adresse:</strong></div>
-                    <div class="col-sm-8">Luisenstr. 9-13</div>
+                    <div class="col-sm-8">Luisenstr. 9-13, 44787 Bochum</div>
                   </div>
                   <div class="row mt-3">
                     <div class="col-sm-4"><strong class="text-uppercase">Sprache:</strong></div>
@@ -116,7 +116,7 @@ permalink: /
                     <div class="progress">
                       <div class="progress-bar progress-bar-primary" data-aos="progress-full" data-aos-offset="10"
                         data-aos-duration="2000" role="progressbar" aria-valuenow="60" aria-valuemin="0"
-                        aria-valuemax="100" style="width: 85%;"></div><span class="progress-value">85%</span>
+                        aria-valuemax="100" style="width: 80%;"></div><span class="progress-value">80%</span>
                     </div>
                   </div>
                 </div>               
@@ -127,7 +127,7 @@ permalink: /
                     <div class="progress">
                       <div class="progress-bar progress-bar-primary" data-aos="progress-full" data-aos-offset="10"
                         data-aos-duration="2000" role="progressbar" aria-valuenow="60" aria-valuemin="0"
-                        aria-valuemax="100" style="width: 30%;"></div><span class="progress-value">30%</span>
+                        aria-valuemax="100" style="width: 40%;"></div><span class="progress-value">40%</span>
                     </div>
                   </div>
                 </div>
@@ -152,20 +152,15 @@ permalink: /
             <div class="row">
               <div class="col-md-3 bg-primary" data-aos="fade-right" data-aos-offset="50" data-aos-duration="500">
                 <div class="card-body cc-education-header">
-                  <p>2013 - 2015</p>
-                  <div class="h5">Master's Degree</div>
+                  <p>2018 - Heute</p>
+                  <div class="h5">Bachelor Studium</div>
                 </div>
               </div>
               <div class="col-md-9" data-aos="fade-left" data-aos-offset="50" data-aos-duration="500">
                 <div class="card-body">
-                  <div class="h5">Master of Information Technology</div>
-                  <p class="category">University of Computer Science</p>
-                  <p>Euismod massa scelerisque suspendisse fermentum habitant vitae ullamcorper magna
-                    quam iaculis, tristique sapien taciti mollis interdum sagittis libero nunc
-                    inceptos tellus, hendrerit vel eleifend primis lectus quisque cubilia sed
-                    mauris. Lacinia porta vestibulum diam integer quisque eros pulvinar curae,
-                    curabitur feugiat arcu vivamus parturient aliquet laoreet at, eu etiam pretium
-                    molestie ultricies sollicitudin dui.</p>
+                  <div class="h5">Bachelor of Science in Biomedizintechnik</div>
+                  <p class="category">Fachhochschule Dortmund</p>
+                  <p>Ich habe mich für das Studium an der Fachhochschule Dortmund entschieden, weil dort die Anwedung des gelernten praktiziert wird. Erfahrung habe ich in den Bereichen der Software- und Hardwareprogrammierung für medizinische Systeme und Geärte sammeln können, Zu den weiteren Schwerpunkten meines Studiums gehören Bildgebende Verfahren der Medizintechnik, Grundlagen der Medizin, Signalverarbeitung und Messtechnik, Elektrophysiologische Messungen, Lehren über das Kardiovaskuläre System und die Kalibrierung von Sensordaten. </p>
                 </div>
               </div>
             </div>
@@ -174,20 +169,15 @@ permalink: /
             <div class="row">
               <div class="col-md-3 bg-primary" data-aos="fade-right" data-aos-offset="50" data-aos-duration="500">
                 <div class="card-body cc-education-header">
-                  <p>2009 - 2013</p>
-                  <div class="h5">Bachelor's Degree</div>
+                  <p>2017 - 2018</p>
+                  <div class="h5">Bachelor Studium</div>
                 </div>
               </div>
               <div class="col-md-9" data-aos="fade-left" data-aos-offset="50" data-aos-duration="500">
                 <div class="card-body">
-                  <div class="h5">Bachelor of Computer Science</div>
-                  <p class="category">University of Computer Science</p>
-                  <p>Euismod massa scelerisque suspendisse fermentum habitant vitae ullamcorper magna
-                    quam iaculis, tristique sapien taciti mollis interdum sagittis libero nunc
-                    inceptos tellus, hendrerit vel eleifend primis lectus quisque cubilia sed
-                    mauris. Lacinia porta vestibulum diam integer quisque eros pulvinar curae,
-                    curabitur feugiat arcu vivamus parturient aliquet laoreet at, eu etiam pretium
-                    molestie ultricies sollicitudin dui.</p>
+                  <div class="h5">Bachelor of Science in Elektrotechnik</div>
+                  <p class="category">Universität Duisburg-Essen</p>
+                  <p>Dieses Studium diente in erster Linie zur Überbrückung, da ich noch nicht die Möglichkeit hatte mein Wunschstudium zu beginnen. Ich habe die Zeit dort jedoch genutzt, um mein Wissen in den Bereichen der Elektrotechnik und Technischen Informatik auszubauen, welche auch Bestandteil meines jetzigen Studiums sind.</p>
                 </div>
               </div>
             </div>
@@ -196,20 +186,15 @@ permalink: /
             <div class="row">
               <div class="col-md-3 bg-primary" data-aos="fade-right" data-aos-offset="50" data-aos-duration="500">
                 <div class="card-body cc-education-header">
-                  <p>2007 - 2009</p>
-                  <div class="h5">High School</div>
+                  <p>2014 - 2016</p>
+                  <div class="h5">Obermatura</div>
                 </div>
               </div>
               <div class="col-md-9" data-aos="fade-left" data-aos-offset="50" data-aos-duration="500">
                 <div class="card-body">
-                  <div class="h5">Science and Mathematics</div>
-                  <p class="category">School of Secondary board</p>
-                  <p>Euismod massa scelerisque suspendisse fermentum habitant vitae ullamcorper magna
-                    quam iaculis, tristique sapien taciti mollis interdum sagittis libero nunc
-                    inceptos tellus, hendrerit vel eleifend primis lectus quisque cubilia sed
-                    mauris. Lacinia porta vestibulum diam integer quisque eros pulvinar curae,
-                    curabitur feugiat arcu vivamus parturient aliquet laoreet at, eu etiam pretium
-                    molestie ultricies sollicitudin dui.</p>
+                  <div class="h5">Studium der Strahlenmedizintechnik</div>
+                  <p class="category">Universität Azad Lahijan</p>
+                  <p>Nach meinem Abitur habe ich das Studium der Strahlenmedizintechnik aufgenommen und in Regelstudienzeit absolviert. Hier habe ich erste Einblicke in die Welt der medizinischen Technik bekommen. Schwerpunkte dort waren Medizinische Grundlagen, wie Physiologie, Anatomie, Biologie und Biochemie, sowie Nuklearwissenschaften und -technologien, Werkstofflehre, Thermodynamik und statistische Mechanik.</p>
                 </div>
               </div>
             </div>
@@ -218,24 +203,19 @@ permalink: /
       </div> 
       <div class="section" id="experience">
         <div class="container cc-experience">
-          <div class="h4 text-center mb-4 title">Erfahrung</div>
+          <div class="h4 text-center mb-4 title">Nebentätigkeiten</div>
           <div class="card">
             <div class="row">
               <div class="col-md-3 bg-primary" data-aos="fade-right" data-aos-offset="50" data-aos-duration="500">
                 <div class="card-body cc-experience-header">
-                  <p>March 2016 - Present</p>
-                  <div class="h5">CreativeM</div>
+                  <p>2018 - Heute</p>
+                  <div class="h5">Deutsche Postbank</div>
                 </div>
               </div>
               <div class="col-md-9" data-aos="fade-left" data-aos-offset="50" data-aos-duration="500">
                 <div class="card-body">
-                  <div class="h5">Front End Developer</div>
-                  <p>Euismod massa scelerisque suspendisse fermentum habitant vitae ullamcorper magna
-                    quam iaculis, tristique sapien taciti mollis interdum sagittis libero nunc
-                    inceptos tellus, hendrerit vel eleifend primis lectus quisque cubilia sed
-                    mauris. Lacinia porta vestibulum diam integer quisque eros pulvinar curae,
-                    curabitur feugiat arcu vivamus parturient aliquet laoreet at, eu etiam pretium
-                    molestie ultricies sollicitudin dui.</p>
+                  <div class="h5"></div>
+                  <p></p>
                 </div>
               </div>
             </div>
@@ -297,7 +277,7 @@ permalink: /
               <div class="col-md-9" data-aos="fade-left" data-aos-offset="50" data-aos-duration="500">
                 <div class="card-body">
                   <div class="h5">Fachliteratur</div>
-                  <p class="category">Und Texte auf Glückskeksen</p>
+                  <p class="category">Und Sprüche auf Glückskeksen</p>
                   <p>Nach einem anstrengenden Tag fühle ich mich mit einem Buch in der Hand besonders wohl, egal ob gebunden, auf dem Handy oder vorgelesen. Besonders gefallen mir die Geschichten von besonders erfolgreichen Menschen. Das gibt mir immer einen ganz besonderen Ansporn mich zu verbessern und meine Träume zu verfolgen. Ich möchte so sein wie sie und die Welt verändern.</p>
                 </div>
               </div>
@@ -313,7 +293,7 @@ permalink: /
               <div class="col-md-9" data-aos="fade-left" data-aos-offset="50" data-aos-duration="500">
                 <div class="card-body">
                   <div class="h5">Fitness</div>
-                  <p class="category">Dazu gehören Treppenstufen</p>
+                  <p class="category">Sport ist Mord oder so</p>
                   <p>Das Fitnessstudio ist wie ein Tempel für meinen Körper. Mir ist wichtig, einen Ausgleich zu schaffen, damit mein Kopf sich erholen und mein Geist Ruhe finden kann. Die Wasserbettmassage am Ende eines Trainings bestärkt meine Motivation erheblich. Es gibt kaum etwas Entspannenderes.</p>
                 </div>
               </div>
@@ -359,7 +339,7 @@ permalink: /
               <div class="row">
                 <div class="col-md-12">
                   <div class="card mb-0" data-aos="zoom-in">
-                    <div class="h4 text-center title">Contact Me</div>
+                    <div class="h4 text-center title">Kontakt</div>
                     <div class="row">
                       <div class="col-md-6">
                         <div class="card-body">
@@ -379,7 +359,7 @@ permalink: /
                               <div class="col">
                                 <div class="input-group"><span class="input-group-addon"><i
                                       class="fa fa-file-text"></i></span>
-                                  <input class="form-control" type="text" name="Subject" placeholder="Subject"
+                                  <input class="form-control" type="text" name="Subject" placeholder="Betreff"
                                     required="required" />
                                 </div>
                               </div>
@@ -396,7 +376,7 @@ permalink: /
                             <div class="row mb-3">
                               <div class="col">
                                 <div class="form-group">
-                                  <textarea class="form-control" name="message" placeholder="Your Message"
+                                  <textarea class="form-control" name="message" placeholder="Deine Nachricht"
                                     required="required"></textarea>
                                 </div>
                               </div>
@@ -411,12 +391,12 @@ permalink: /
                       </div>
                       <div class="col-md-6">
                         <div class="card-body">
-                          <p class="mb-0"><strong>Address </strong></p>
-                          <p class="pb-2">140, City Center, New York, U.S.A</p>
-                          <p class="mb-0"><strong>Phone</strong></p>
-                          <p class="pb-2">+1718-111-0011</p>
-                          <p class="mb-0"><strong>Email</strong></p>
-                          <p>anthony@company.com</p>
+                          <p class="mb-0"><strong>Adresse </strong></p>
+                          <p class="pb-2">Luisenstr. 9-13, 44787 Bochum</p>
+                          <p class="mb-0"><strong>Telefon</strong></p>
+                          <p class="pb-2">+49 176 34342760</p>
+                          <p class="mb-0"><strong>E-Mail</strong></p>
+                          <p>niyousha.nikfar@gmail.de</p>
                         </div>
                       </div>
                     </div>
