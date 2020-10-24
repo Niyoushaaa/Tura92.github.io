@@ -21,6 +21,7 @@ permalink: /
               <li class="nav-item"><a class="nav-link smooth-scroll" href="#experience">Nebentätigkeiten</a></li>
               <li class="nav-item"><a class="nav-link smooth-scroll" href="#hobbies">Hobbies</a></li>
               <li class="nav-item"><a class="nav-link smooth-scroll" href="#contact">Kontakt</a></li>
+              <!--  TODO: Seite übersetzen
               <li>
                 <div class="d-flex flex-row justify-content-start ml-3">
                   <div class="p-2">
@@ -30,6 +31,7 @@ permalink: /
                   </div>            
                 </div>
               </li>
+              -->
             </ul>
           </div>
         </div>
@@ -214,8 +216,8 @@ permalink: /
               </div>
               <div class="col-md-9" data-aos="fade-left" data-aos-offset="50" data-aos-duration="500">
                 <div class="card-body">
-                  <div class="h5"></div>
-                  <p></p>
+                  <div class="h5">Nebenjob</div>
+                  <p>Zur Finanzierung meines Studiums arbeite ich zurzeit Bei der Deutschen Post und Postbank. Meine Tätigkeiten dort umfassen einfache Kassenaufgaben, Kundenberatung und Inventuren. Um mehr Verantwortung übernehmen zu können habe ich außerdem noch das Silberzertifikat und das Banknotenzertifikat erlangt.</p>
                 </div>
               </div>
             </div>
@@ -224,19 +226,14 @@ permalink: /
             <div class="row">
               <div class="col-md-3 bg-primary" data-aos="fade-right" data-aos-offset="50" data-aos-duration="500">
                 <div class="card-body cc-experience-header">
-                  <p>April 2014 - March 2016</p>
-                  <div class="h5">WebNote</div>
+                  <p>2020 - Heute</p>
+                  <div class="h5">Medizinisches Qualitätsnetz BOViTA Bochum</div>
                 </div>
               </div>
               <div class="col-md-9" data-aos="fade-left" data-aos-offset="50" data-aos-duration="500">
                 <div class="card-body">
-                  <div class="h5">Web Developer</div>
-                  <p>Euismod massa scelerisque suspendisse fermentum habitant vitae ullamcorper magna
-                    quam iaculis, tristique sapien taciti mollis interdum sagittis libero nunc
-                    inceptos tellus, hendrerit vel eleifend primis lectus quisque cubilia sed
-                    mauris. Lacinia porta vestibulum diam integer quisque eros pulvinar curae,
-                    curabitur feugiat arcu vivamus parturient aliquet laoreet at, eu etiam pretium
-                    molestie ultricies sollicitudin dui.</p>
+                  <div class="h5">Praktikum</div>
+                  <p>Seit 2020 arbeite ich als Praktikantin bei der BOViTA Bochum. Zu meinen Aufgaben gehören das Innovationsmanagement und Administrative Tätigkeiten.</p>
                 </div>
               </div>
             </div>
@@ -245,19 +242,14 @@ permalink: /
             <div class="row">
               <div class="col-md-3 bg-primary" data-aos="fade-right" data-aos-offset="50" data-aos-duration="500">
                 <div class="card-body cc-experience-header">
-                  <p>April 2013 - February 2014</p>
-                  <div class="h5">WEBM</div>
+                  <p>2014 - 2015</p>
+                  <div class="h5">Pischraft Schule</div>
                 </div>
               </div>
               <div class="col-md-9" data-aos="fade-left" data-aos-offset="50" data-aos-duration="500">
                 <div class="card-body">
-                  <div class="h5">Intern</div>
-                  <p>Euismod massa scelerisque suspendisse fermentum habitant vitae ullamcorper magna
-                    quam iaculis, tristique sapien taciti mollis interdum sagittis libero nunc
-                    inceptos tellus, hendrerit vel eleifend primis lectus quisque cubilia sed
-                    mauris. Lacinia porta vestibulum diam integer quisque eros pulvinar curae,
-                    curabitur feugiat arcu vivamus parturient aliquet laoreet at, eu etiam pretium
-                    molestie ultricies sollicitudin dui.</p>
+                  <div class="h5">Nebenjob</div>
+                  <p>Währen meiner Zeit im Iran habe ich erste Erfahrungen im Arbeitsalltag als Aushilfe im Büro sammeln können. Zu meinem Alltag dort gehörte das Organisieren der Schuldaten am Computer und Unterstützung bei der Vorbereitung der Prüfungen und Veranstaltungen.</p>
                 </div>
               </div>
             </div>
@@ -279,6 +271,22 @@ permalink: /
                   <div class="h5">Fachliteratur</div>
                   <p class="category">Und Sprüche auf Glückskeksen</p>
                   <p>Nach einem anstrengenden Tag fühle ich mich mit einem Buch in der Hand besonders wohl, egal ob gebunden, auf dem Handy oder vorgelesen. Besonders gefallen mir die Geschichten von besonders erfolgreichen Menschen. Das gibt mir immer einen ganz besonderen Ansporn mich zu verbessern und meine Träume zu verfolgen. Ich möchte so sein wie sie und die Welt verändern.</p>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="card">
+            <div class="row">
+              <div class="col-md-3" data-aos="fade-right" data-aos-offset="50" data-aos-duration="500">
+                <div class="card-body cc-education-header hobbie-image">
+                  <img src="images/conference-image.png">
+                </div>
+              </div>
+              <div class="col-md-9" data-aos="fade-left" data-aos-offset="50" data-aos-duration="500">
+                <div class="card-body">
+                  <div class="h5">Ehrenamtliches</div>
+                  <p class="category">Weil mir Menschen am Herzen liegen</p>
+                  <p>Es ist mir wichtig mich für positive Veränderungen in meiner Umgebung einzusetzen. Deshalb bin ich neben meinem Studium seit 2019 im Senat meiner Hochschule und der Fachschaft meines Fachbereiches tätig. Desweiteren bin ich im Frauenprojektlabor und als Stellvertretende im Wahlvorstand vertreten.</p>
                 </div>
               </div>
             </div>
@@ -344,7 +352,7 @@ permalink: /
                       <div class="col-md-6">
                         <div class="card-body">
                           <form action="https://formspree.io/f/mzbkevqn" method="POST">
-                            <div class="p pb-3"><strong>Feel free to contact me </strong>
+                            <div class="p pb-3"><strong>Gerne kannst du mich kontaktieren</strong>
                             </div>
                             <div class="row mb-3">
                               <div class="col">
