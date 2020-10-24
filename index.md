@@ -7,7 +7,7 @@ permalink: /
     <div class="profile-page sidebar-collapse">
       <nav class="navbar navbar-expand-lg fixed-top navbar-transparent bg-primary" color-on-scroll="400">
         <div class="container">
-          <div class="navbar-translate"><a class="navbar-brand" href="#" rel="tooltip">Niyoushas CV</a>
+          <div class="navbar-translate"><a class="navbar-brand" href="#" rel="tooltip"></a>
             <button class="navbar-toggler navbar-toggler" type="button" data-toggle="collapse" data-target="#navigation"
               aria-controls="navigation" aria-expanded="false" aria-label="Toggle navigation"><span
                 class="navbar-toggler-bar bar1"></span><span class="navbar-toggler-bar bar2"></span><span
@@ -43,7 +43,7 @@ permalink: /
       <div class="profile-page">
         <div class="wrapper">
           <div class="page-header page-header-small" filter-color="green">
-            <div class="page-header-image" data-parallax="true" style="background-image: url('images/bg-2.jpg');">
+            <div class="page-header-image" data-parallax="true" style="background-image: url('images/bg-9.jpg');">
             </div>
             <div class="container">
               <div class="content-center">
@@ -162,7 +162,7 @@ permalink: /
                 <div class="card-body">
                   <div class="h5">Bachelor of Science in Biomedizintechnik</div>
                   <p class="category">Fachhochschule Dortmund</p>
-                  <p>Ich habe mich für das Studium an der Fachhochschule Dortmund entschieden, weil dort die Anwedung des gelernten praktiziert wird. Erfahrung habe ich in den Bereichen der Software- und Hardwareprogrammierung für medizinische Systeme und Geärte sammeln können, Zu den weiteren Schwerpunkten meines Studiums gehören Bildgebende Verfahren der Medizintechnik, Grundlagen der Medizin, Signalverarbeitung und Messtechnik, Elektrophysiologische Messungen, Lehren über das Kardiovaskuläre System und die Kalibrierung von Sensordaten. </p>
+                  <p>Ich habe mich für das Studium an der Fachhochschule Dortmund entschieden, weil dort die Anwendung des gelernten praktiziert wird. Erfahrung habe ich in den Bereichen der Software- und Hardwareprogrammierung für medizinische Systeme und Geräte sammeln können, zu den weiteren Schwerpunkten meines Studiums gehören Bildgebende Verfahren der Medizintechnik, Signalverarbeitung und Messtechnik, Elektrophysiologische Messungen, Lehren über das Kardiovaskuläre System und die Kalibrierung von Sensordaten. </p>
                 </div>
               </div>
             </div>
@@ -179,7 +179,7 @@ permalink: /
                 <div class="card-body">
                   <div class="h5">Bachelor of Science in Elektrotechnik</div>
                   <p class="category">Universität Duisburg-Essen</p>
-                  <p>Dieses Studium diente in erster Linie zur Überbrückung, da ich noch nicht die Möglichkeit hatte mein Wunschstudium zu beginnen. Ich habe die Zeit dort jedoch genutzt, um mein Wissen in den Bereichen der Elektrotechnik und Technischen Informatik auszubauen, welche auch Bestandteil meines jetzigen Studiums sind.</p>
+                  <p>Dieses Studium diente in erster Linie zur Überbrückung, da ich noch nicht die Möglichkeit hatte mein Wunschstudium zu beginnen. Ich habe die Zeit dort jedoch genutzt, um mein Wissen in den Bereichen der Elektrotechnik und technischen Informatik auszubauen, welche auch Bestandteil meines jetzigen Studiums sind.</p>
                 </div>
               </div>
             </div>
@@ -196,7 +196,7 @@ permalink: /
                 <div class="card-body">
                   <div class="h5">Studium der Strahlenmedizintechnik</div>
                   <p class="category">Universität Azad Lahijan</p>
-                  <p>Nach meinem Abitur habe ich das Studium der Strahlenmedizintechnik aufgenommen und in Regelstudienzeit absolviert. Hier habe ich erste Einblicke in die Welt der medizinischen Technik bekommen. Schwerpunkte dort waren Medizinische Grundlagen, wie Physiologie, Anatomie, Biologie und Biochemie, sowie Nuklearwissenschaften und -technologien, Werkstofflehre, Thermodynamik und statistische Mechanik.</p>
+                  <p>Nach meinem Abitur habe ich das Studium der Strahlenmedizintechnik aufgenommen und in Regelstudienzeit absolviert. Hier habe ich erste Einblicke in die Welt der medizinischen Technik bekommen. Schwerpunkte dort waren medizinische Grundlagen, wie Physiologie, Anatomie, Biologie und Biochemie, sowie Nuklearwissenschaften und -technologien, Werkstofflehre, Thermodynamik und statistische Mechanik.</p>
                 </div>
               </div>
             </div>
@@ -217,7 +217,7 @@ permalink: /
               <div class="col-md-9" data-aos="fade-left" data-aos-offset="50" data-aos-duration="500">
                 <div class="card-body">
                   <div class="h5">Nebenjob</div>
-                  <p>Zur Finanzierung meines Studiums arbeite ich zurzeit Bei der Deutschen Post und Postbank. Meine Tätigkeiten dort umfassen einfache Kassenaufgaben, Kundenberatung und Inventuren. Um mehr Verantwortung übernehmen zu können habe ich außerdem noch das Silberzertifikat und das Banknotenzertifikat erlangt.</p>
+                  <p>Zurzeit arbeite ich bei der deutschen Post und Postbank. Meine Tätigkeiten dort umfassen einfache Kassenaufgaben, Kundenberatung und Inventuren aber auch die gelegentliche Leitung der Filiale. Um mehr Verantwortung übernehmen zu können habe ich außerdem noch das silberne Kompetenz-Zertifikat erlangt.</p>
                 </div>
               </div>
             </div>
@@ -227,13 +227,29 @@ permalink: /
               <div class="col-md-3 bg-primary" data-aos="fade-right" data-aos-offset="50" data-aos-duration="500">
                 <div class="card-body cc-experience-header">
                   <p>2020 - Heute</p>
-                  <div class="h5">Medizinisches Qualitätsnetz BOViTA Bochum</div>
+                  <div class="h5">MedQN Bochum</div>
                 </div>
               </div>
               <div class="col-md-9" data-aos="fade-left" data-aos-offset="50" data-aos-duration="500">
                 <div class="card-body">
                   <div class="h5">Praktikum</div>
-                  <p>Seit 2020 arbeite ich als Praktikantin bei der BOViTA Bochum. Zu meinen Aufgaben gehören das Innovationsmanagement und Administrative Tätigkeiten.</p>
+                  <p>Seit August 2020 arbeite ich als Praktikantin beim medizinischen Qualitätsnetz (BOViTA) Bochum. Zu meinen Aufgaben gehören das Innovationsmanagement und administrative Tätigkeiten. Darunter fällt das Vereinbaren von Terminen, sowie das Sammeln und Archivieren medizinischer Daten.</p>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="card">
+            <div class="row">
+              <div class="col-md-3 bg-primary" data-aos="fade-right" data-aos-offset="50" data-aos-duration="500">
+                <div class="card-body cc-experience-header">
+                  <p>2019 - Heute</p>
+                  <div class="h5">FH Dortmund</div>
+                </div>
+              </div>
+              <div class="col-md-9" data-aos="fade-left" data-aos-offset="50" data-aos-duration="500">
+                <div class="card-body">
+                  <div class="h5">Ehrenamtlich</div>
+                  <p>Neben meinem Studium Interessiere ich mich auch für Hochschulpolitik und das Organisieren studentischer Projekte. Deshalb bin ich neben meinem Studium seit 2019 im Senat meiner Hochschule und der Fachschaft meines Fachbereiches tätig. Des weiteren bin ich im Frauenprojektlabor und als Stellvertretende im Wahlvorstand vertreten.</p>
                 </div>
               </div>
             </div>
@@ -249,7 +265,7 @@ permalink: /
               <div class="col-md-9" data-aos="fade-left" data-aos-offset="50" data-aos-duration="500">
                 <div class="card-body">
                   <div class="h5">Nebenjob</div>
-                  <p>Währen meiner Zeit im Iran habe ich erste Erfahrungen im Arbeitsalltag als Aushilfe im Büro sammeln können. Zu meinem Alltag dort gehörte das Organisieren der Schuldaten am Computer und Unterstützung bei der Vorbereitung der Prüfungen und Veranstaltungen.</p>
+                  <p>Während meines Studiums in Strahlenmedizintechnik habe ich erste Erfahrungen im Arbeitsalltag als Aushilfe im Büro sammeln können. Zu meinem Alltag dort gehörte das Organisieren der Schuldaten am Computer und Unterstützung bei der Vorbereitung der Prüfungen und Veranstaltungen.</p>
                 </div>
               </div>
             </div>
@@ -270,7 +286,7 @@ permalink: /
                 <div class="card-body">
                   <div class="h5">Fachliteratur</div>
                   <p class="category">Und Sprüche auf Glückskeksen</p>
-                  <p>Nach einem anstrengenden Tag fühle ich mich mit einem Buch in der Hand besonders wohl, egal ob gebunden, auf dem Handy oder vorgelesen. Besonders gefallen mir die Geschichten von besonders erfolgreichen Menschen. Das gibt mir immer einen ganz besonderen Ansporn mich zu verbessern und meine Träume zu verfolgen. Ich möchte so sein wie sie und die Welt verändern.</p>
+                  <p>Nach einem anstrengenden Tag bin ich manchmal sehr froh darüber den Tag mit einem Buch abklingen zu lassen, egal ob gebunden, auf dem Handy oder vorgelesen. Besonders gefallen mir die Geschichten von erfolgreichen Menschen und die Psychologie dahinter. Ich fühle mich dadurch motivierter mich zu verbessern und meine Träume zu verfolgen.</p>
                 </div>
               </div>
             </div>
@@ -279,23 +295,7 @@ permalink: /
             <div class="row">
               <div class="col-md-3" data-aos="fade-right" data-aos-offset="50" data-aos-duration="500">
                 <div class="card-body cc-education-header hobbie-image">
-                  <img src="images/conference-image.png">
-                </div>
-              </div>
-              <div class="col-md-9" data-aos="fade-left" data-aos-offset="50" data-aos-duration="500">
-                <div class="card-body">
-                  <div class="h5">Ehrenamtliches</div>
-                  <p class="category">Weil mir Menschen am Herzen liegen</p>
-                  <p>Es ist mir wichtig mich für positive Veränderungen in meiner Umgebung einzusetzen. Deshalb bin ich neben meinem Studium seit 2019 im Senat meiner Hochschule und der Fachschaft meines Fachbereiches tätig. Desweiteren bin ich im Frauenprojektlabor und als Stellvertretende im Wahlvorstand vertreten.</p>
-                </div>
-              </div>
-            </div>
-          </div>
-          <div class="card">
-            <div class="row">
-              <div class="col-md-3" data-aos="fade-right" data-aos-offset="50" data-aos-duration="500">
-                <div class="card-body cc-education-header hobbie-image">
-                  <img src="images/fitness-image.png">
+                  <img src="images/fitness-2-image.jpg" id="fitness-image">
                 </div>
               </div>
               <div class="col-md-9" data-aos="fade-left" data-aos-offset="50" data-aos-duration="500">
@@ -318,7 +318,7 @@ permalink: /
                 <div class="card-body">
                   <div class="h5">Musik</div>
                   <p class="category">Meine Nachbarn lieben mich</p>
-                  <p>Musik liebe ich schon seit meiner Kindheit. Ich singe sehr gerne und spiele nebenbei Gitarre. Von 2017 bis 2019 war ich Mitgliedder X-Vision Band in der Musikschule Wattenscheid. Dort hatte ich die Gelegenheit mit internationalen Menschen zu musizieren und auf die Bühne zu gehen.</p>
+                  <p>Musik liebe ich schon seit meiner Kindheit. Ich singe sehr gerne und spiele nebenbei Gitarre. Von 2017 bis 2019 war ich Mitglied der X-Vision Band in der Musikschule Wattenscheid. Dort hatte ich die Gelegenheit mit internationalen Menschen zu musizieren und auf die Bühne zu gehen.</p>
                 </div>
               </div>
             </div>
@@ -334,7 +334,7 @@ permalink: /
                 <div class="card-body">
                   <div class="h5">Poker</div>
                   <p class="category">Gewinnen ist nicht alles</p>
-                  <p>Erst bei einer Pokerrunde, bei der es um die Rechnung fürs Abendessen geht lernt man sein gegenüber wirklich kennen. Für mich ist es ein sehr geselliges aber auch taktisches Spiel, bei dem man seine nächsten 5 Schritte gut planen muss.</p>
+                  <p>Erst bei einer Pokerrunde, bei der es um die Rechnung fürs Abendessen geht, lernt man sein gegenüber wirklich kennen. Für mich ist es ein sehr geselliges aber auch taktisches Spiel, bei dem man seine nächsten 5 Schritte gut planen muss.</p>
                 </div>
               </div>
             </div>
@@ -391,7 +391,7 @@ permalink: /
                             </div>
                             <div class="row">
                               <div class="col">
-                                <button class="btn btn-info" type="submit">Send</button>
+                                <button class="btn btn-info" type="submit">Senden</button>
                               </div>
                             </div>
                           </form>
@@ -399,7 +399,7 @@ permalink: /
                       </div>
                       <div class="col-md-6">
                         <div class="card-body">
-                          <p class="mb-0"><strong>Adresse </strong></p>
+                          <p class="mb-0"><strong>Adresse</strong></p>
                           <p class="pb-2">Luisenstr. 9-13, 44787 Bochum</p>
                           <p class="mb-0"><strong>Telefon</strong></p>
                           <p class="pb-2">+49 176 34342760</p>

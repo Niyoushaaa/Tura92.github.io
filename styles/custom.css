@@ -23,10 +23,18 @@
     .hobbie-image img {
         max-width: 80%
     }
+
+    #fitness-image {
+      padding-top: 30px!important;
+    }
 }
 
 @media (min-width: 1200px) {
     .hobbie-image img {
         max-width: 50%
+    }
+
+    #fitness-image {
+      padding-top: 30px!important;
     }
 }
