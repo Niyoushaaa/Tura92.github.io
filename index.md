@@ -50,7 +50,7 @@ permalink: /
                 <div class="cc-profile-image"><a href="#"><img src="images/niyousha.jpg" alt="Image" /></a></div>
                 <div class="h2 title">Niyousha Homay Nikfar</div>
                 <p class="category text-white">Medizintechnikerin</p>
-                  <a class="btn btn-primary" href="/download/lebenslauf.pdf" data-aos="zoom-in" data-aos-anchor="data-aos-anchor" target="_blank">Download CV</a>
+                  <a class="btn btn-primary" href="/download/lebenslauf.pdf" data-aos="zoom-in" data-aos-anchor="data-aos-anchor" target="_blank">Lebenslauf herunterladen</a>
               </div>
             </div>
           </div>
@@ -149,7 +149,7 @@ permalink: /
       </div>
       <div class="section" id="education">
         <div class="container cc-education">
-          <div class="h4 text-center mb-4 title">Bildung</div>
+          <div class="h4 text-center mb-4 title">Ausbildung</div>
           <div class="card">
             <div class="row">
               <div class="col-md-3 bg-primary" data-aos="fade-right" data-aos-offset="50" data-aos-duration="500">
