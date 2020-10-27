@@ -17,7 +17,7 @@ permalink: /
             <ul class="navbar-nav">
               <li class="nav-item"><a class="nav-link smooth-scroll" href="#about">Über Mich</a></li>
               <li class="nav-item"><a class="nav-link smooth-scroll" href="#skill">Skills</a></li>
-              <li class="nav-item"><a class="nav-link smooth-scroll" href="#education">Bildung</a></li>
+              <li class="nav-item"><a class="nav-link smooth-scroll" href="#education">Ausbildung</a></li>
               <li class="nav-item"><a class="nav-link smooth-scroll" href="#experience">Nebentätigkeiten</a></li>
               <li class="nav-item"><a class="nav-link smooth-scroll" href="#hobbies">Hobbies</a></li>
               <li class="nav-item"><a class="nav-link smooth-scroll" href="#contact">Kontakt</a></li>
