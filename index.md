@@ -249,7 +249,7 @@ permalink: /
               <div class="col-md-9" data-aos="fade-left" data-aos-offset="50" data-aos-duration="500">
                 <div class="card-body">
                   <div class="h5">Ehrenamtlich</div>
-                  <p>Neben meinem Studium Interessiere ich mich auch für Hochschulpolitik und das Organisieren studentischer Projekte. Deshalb bin ich neben meinem Studium seit 2019 im Senat meiner Hochschule und der Fachschaft meines Fachbereiches tätig. Des weiteren bin ich im Frauenprojektlabor und als Stellvertretende im Wahlvorstand vertreten.</p>
+                  <p>Neben meinem Studium Interessiere ich mich auch für Hochschulpolitik und das Organisieren studentischer Projekte. Deshalb bin ich neben meinem Studium seit 2019 im Senat meiner Hochschule und der Fachschaft meines Fachbereiches und im Frauenprojektlabor tätig.</p>
                 </div>
               </div>
             </div>
@@ -334,7 +334,7 @@ permalink: /
                 <div class="card-body">
                   <div class="h5">Poker</div>
                   <p class="category">Gewinnen ist nicht alles</p>
-                  <p>Erst bei einer Pokerrunde, bei der es um die Rechnung fürs Abendessen geht, lernt man sein gegenüber wirklich kennen. Für mich ist es ein sehr geselliges aber auch taktisches Spiel, bei dem man seine nächsten 5 Schritte gut planen muss.</p>
+                  <p>Erst bei einer Pokerrunde, bei der es um die Rechnung fürs Abendessen geht, lernt man sein gegenüber wirklich kennen. Für mich ist es ein sehr geselliges aber auch taktisches Spiel, bei dem man seine nächsten drei Schritte gut planen muss.</p>
                 </div>
               </div>
             </div>
