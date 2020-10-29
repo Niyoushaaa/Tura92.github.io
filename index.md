@@ -16,8 +16,8 @@ permalink: /
           <div class="collapse navbar-collapse justify-content-end" id="navigation">
             <ul class="navbar-nav">
               <li class="nav-item"><a class="nav-link smooth-scroll" href="#about">Über Mich</a></li>
-              <li class="nav-item"><a class="nav-link smooth-scroll" href="#skill">Skills</a></li>
               <li class="nav-item"><a class="nav-link smooth-scroll" href="#education">Ausbildung</a></li>
+              <li class="nav-item"><a class="nav-link smooth-scroll" href="#skill">Skills</a></li>
               <li class="nav-item"><a class="nav-link smooth-scroll" href="#experience">Nebentätigkeiten</a></li>
               <li class="nav-item"><a class="nav-link smooth-scroll" href="#hobbies">Hobbies</a></li>
               <li class="nav-item"><a class="nav-link smooth-scroll" href="#contact">Kontakt</a></li>
@@ -49,7 +49,7 @@ permalink: /
               <div class="content-center">
                 <div class="cc-profile-image"><a href="#"><img src="images/niyousha.jpg" alt="Image" /></a></div>
                 <div class="h2 title">Niyousha Homay Nikfar</div>
-                <p class="category text-white">Medizintechnikerin</p>
+                <p class="category text-white">Biomedizintechnikerin</p>
                   <a class="btn btn-primary" href="/download/lebenslauf.pdf" data-aos="zoom-in" data-aos-anchor="data-aos-anchor" target="_blank">Lebenslauf herunterladen</a>
               </div>
             </div>
@@ -64,8 +64,8 @@ permalink: /
                 <div class="card-body">
                   <div class="h4 mt-0 title">Über mich</div>
                   <p>Hallo! Ich bin Niyousha Homay Nikfar. Medizintechnische Ingenieurin und Entwicklerin.</p>
-                  <p>Mein Traum ist es nach meinem Studium etwas zu entwickeln, dass die Welt verändert. Ich möchte mein
-                  Wissen dazu nutzen so vielen Menschen zu helfen wie ich nur kann. Ich bin engagiert, risikofreudig und verlässlich.
+                  <p>Mein Traum ist es, nach meinem Studium etwas zu entwickeln, dass die Welt verändert. Ich möchte mein
+                  Wissen dazu nutzen, so vielen Menschen zu helfen, wie ich nur kann. Ich bin engagiert, risikofreudig und verlässlich.
                   Bleib eine Weile und mach dir dein Bild von mir. Willkommen auf meiner Internetseite!</p>
                 </div>
               </div>
@@ -91,55 +91,6 @@ permalink: /
                   <div class="row mt-3">
                     <div class="col-sm-4"><strong class="text-uppercase">Sprache:</strong></div>
                     <div class="col-sm-8">Deutsch, Englisch, Persisch</div>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-      <div class="section" id="skill">
-        <div class="container">
-          <div class="h4 text-center mb-4 title">Skills</div>
-          <div class="card" data-aos="fade-up" data-aos-anchor-placement="top-bottom">
-            <div class="card-body">
-              <div class="row">
-                <div class="col-md-6">
-                  <div class="progress-container progress-primary"><span class="progress-badge">MS(Excel/Word/Power Point)</span>
-                    <div class="progress">
-                      <div class="progress-bar progress-bar-primary" data-aos="progress-full" data-aos-offset="10"
-                        data-aos-duration="2000" role="progressbar" aria-valuenow="60" aria-valuemin="0"
-                        aria-valuemax="100" style="width: 90%;"></div><span class="progress-value">90%</span>
-                    </div>
-                  </div>
-                </div>
-                <div class="col-md-6">
-                  <div class="progress-container progress-primary"><span class="progress-badge">MATLAB/Simulink</span>
-                    <div class="progress">
-                      <div class="progress-bar progress-bar-primary" data-aos="progress-full" data-aos-offset="10"
-                        data-aos-duration="2000" role="progressbar" aria-valuenow="60" aria-valuemin="0"
-                        aria-valuemax="100" style="width: 80%;"></div><span class="progress-value">80%</span>
-                    </div>
-                  </div>
-                </div>               
-              </div>
-              <div class="row">
-                <div class="col-md-6">
-                  <div class="progress-container progress-primary"><span class="progress-badge">Java/SQL</span>
-                    <div class="progress">
-                      <div class="progress-bar progress-bar-primary" data-aos="progress-full" data-aos-offset="10"
-                        data-aos-duration="2000" role="progressbar" aria-valuenow="60" aria-valuemin="0"
-                        aria-valuemax="100" style="width: 40%;"></div><span class="progress-value">40%</span>
-                    </div>
-                  </div>
-                </div>
-                 <div class="col-md-6">
-                  <div class="progress-container progress-primary"><span class="progress-badge">C/C++</span>
-                    <div class="progress">
-                      <div class="progress-bar progress-bar-primary" data-aos="progress-full" data-aos-offset="10"
-                        data-aos-duration="2000" role="progressbar" aria-valuenow="60" aria-valuemin="0"
-                        aria-valuemax="100" style="width: 40%;"></div><span class="progress-value">40%</span>
-                    </div>
                   </div>
                 </div>
               </div>
@@ -203,6 +154,55 @@ permalink: /
           </div>
         </div>
       </div> 
+      <div class="section" id="skill">
+        <div class="container">
+          <div class="h4 text-center mb-4 title">Skills</div>
+          <div class="card" data-aos="fade-up" data-aos-anchor-placement="top-bottom">
+            <div class="card-body">
+              <div class="row">
+                <div class="col-md-6">
+                  <div class="progress-container progress-primary"><span class="progress-badge">MS(Excel/Word/Power Point)</span>
+                    <div class="progress">
+                      <div class="progress-bar progress-bar-primary" data-aos="progress-full" data-aos-offset="10"
+                        data-aos-duration="2000" role="progressbar" aria-valuenow="60" aria-valuemin="0"
+                        aria-valuemax="100" style="width: 90%;"></div><span class="progress-value">90%</span>
+                    </div>
+                  </div>
+                </div>
+                <div class="col-md-6">
+                  <div class="progress-container progress-primary"><span class="progress-badge">MATLAB/Simulink</span>
+                    <div class="progress">
+                      <div class="progress-bar progress-bar-primary" data-aos="progress-full" data-aos-offset="10"
+                        data-aos-duration="2000" role="progressbar" aria-valuenow="60" aria-valuemin="0"
+                        aria-valuemax="100" style="width: 80%;"></div><span class="progress-value">80%</span>
+                    </div>
+                  </div>
+                </div>               
+              </div>
+              <div class="row">
+                <div class="col-md-6">
+                  <div class="progress-container progress-primary"><span class="progress-badge">Java/SQL</span>
+                    <div class="progress">
+                      <div class="progress-bar progress-bar-primary" data-aos="progress-full" data-aos-offset="10"
+                        data-aos-duration="2000" role="progressbar" aria-valuenow="60" aria-valuemin="0"
+                        aria-valuemax="100" style="width: 50%;"></div><span class="progress-value">50%</span>
+                    </div>
+                  </div>
+                </div>
+                 <div class="col-md-6">
+                  <div class="progress-container progress-primary"><span class="progress-badge">C/C++</span>
+                    <div class="progress">
+                      <div class="progress-bar progress-bar-primary" data-aos="progress-full" data-aos-offset="10"
+                        data-aos-duration="2000" role="progressbar" aria-valuenow="60" aria-valuemin="0"
+                        aria-valuemax="100" style="width: 40%;"></div><span class="progress-value">40%</span>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
       <div class="section" id="experience">
         <div class="container cc-experience">
           <div class="h4 text-center mb-4 title">Nebentätigkeiten</div>
