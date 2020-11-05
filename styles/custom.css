@@ -2,24 +2,12 @@
     .hobbie-image img {
         max-width: 35%;
     }
-
-    .page-header.page-header-small {
-      height: 60vh;
-      max-height: 440px!important;
-      
-    }
 }
 
 @media (min-width: 576px) {
     .hobbie-image img {
         max-width: 35%;
     }
-
-    .page-header.page-header-small {
-      height: 60vh;
-      max-height: 440px!important;
-
-    } 
 }
 
 @media (min-width: 768px) {
