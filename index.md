@@ -210,7 +210,7 @@ permalink: /
             <div class="row">
               <div class="col-md-3 bg-primary" data-aos="fade-right" data-aos-offset="50" data-aos-duration="500">
                 <div class="card-body cc-experience-header">
-                  <p>2018 - Heute</p>
+                  <p>2018 - 2021</p>
                   <div class="h5">Deutsche Postbank</div>
                 </div>
               </div>
