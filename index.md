@@ -73,8 +73,8 @@ permalink: /
                 <div class="card-body">
                   <div class="h4 mt-0 title">Allgemeine Informationen</div>
                   <div class="row">
-                    <div class="col-sm-4"><strong class="text-uppercase">Geboren am:</strong></div>
-                    <div class="col-sm-8">11.03.1997</div>
+                    <div class="col-sm-4"><strong class="text-uppercase">Geboren:</strong></div>
+                    <div class="col-sm-8">1997</div>
                   </div>
                   <div class="row mt-3">
                     <div class="col-sm-4"><strong class="text-uppercase">Email:</strong></div>
