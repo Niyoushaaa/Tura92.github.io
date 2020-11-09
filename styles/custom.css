@@ -1,12 +1,12 @@
 @media (max-width: 575px) {
     .hobbie-image img {
-        max-width: 35%
+        max-width: 35%;
     }
 }
 
 @media (min-width: 576px) {
     .hobbie-image img {
-        max-width: 35%
+        max-width: 35%;
     }
 }
 
@@ -23,10 +23,18 @@
     .hobbie-image img {
         max-width: 80%
     }
+
+    #fitness-image {
+      padding-top: 30px!important;
+    }
 }
 
 @media (min-width: 1200px) {
     .hobbie-image img {
         max-width: 50%
+    }
+
+    #fitness-image {
+      padding-top: 30px!important;
     }
 }
