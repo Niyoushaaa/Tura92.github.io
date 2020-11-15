@@ -65,8 +65,7 @@ permalink: /
                 <div class="card-body">
                   <div class="h4 mt-0 title">Über mich</div>
                   <p>Hallo! Ich bin Niyousha Homay Nikfar. Angehende Medizintechnische Ingenieurin und Entwicklerin.</p>
-                  <p>Als ich 2016 mein Heimatland Iran als studierte Strahlenmedizintechnikerin verließ, hatte ich einen Traum. Ich wollte mein Wissen dafür einsetzen der Welt etwas wertvolles zu geben. Etwas, das meinen Mitmenschen hilft, ihre Lebensqualität erhöht und ihnen mehr Kraft und Gesundheit gibt, damit Sie mehr Zeit haben ihre eigenen Träume und Ziele zu verfolgen. Dabei bringe ich meine Kreativität und meine lebensfrohe Art in mein Studium und meine Arbeit ein. Ich bin engagiert, bereit Risiken einzugehen und jemand, dem man seine Aufgaben gerne anvertraut. Ein großer Dank an dieser Stelle geht an meine Familie, die mich auf meiner Reise nach Deutschland unterstützt hat und auch an meine Freunde hier, die mich stützen und auf dieser Reise begleiten. 
-                  Bleiben Sie eine Weile und machen Sie sich ein Bild von mir. Willkommen auf meiner Internetseite!</p>
+                  <p>Als ich 2016 mein Heimatland Iran als studierte Strahlenmedizintechnikerin verließ, hatte ich einen Traum. Ich wollte mein Wissen dafür einsetzen der Welt etwas wertvolles zu geben. Etwas, das meinen Mitmenschen hilft, ihre Lebensqualität erhöht und ihnen mehr Kraft und Gesundheit gibt, damit Sie mehr Zeit haben ihre eigenen Träume und Ziele zu verfolgen. Dabei bringe ich meine Kreativität und meine lebensfrohe Art in mein Studium und meine Arbeit ein. Ich bin engagiert, bereit Risiken einzugehen und jemand, dem man seine Aufgaben gerne anvertraut. Bleiben Sie eine Weile und machen Sie sich ein Bild von mir. Willkommen auf meiner Internetseite!</p>
                 </div>
               </div>
             </div>
@@ -192,7 +191,7 @@ permalink: /
               <div class="col-md-9" data-aos="fade-left" data-aos-offset="50" data-aos-duration="500">
                 <div class="card-body">
                   <div class="h5">Mitarbeiterin</div>
-                  <p>Zurzeit arbeite ich bei der deutschen Post und Postbank. Meine Tätigkeiten dort reichen von Kassiertätigkeiten und Inventuren über Kundenberatung bis zur gelegentlichen Vertretung als Filialleiterin. Um mehr Verantwortung übernehmen zu können, habe ich außerdem noch das silberne Kompetenz-Zertifikat erlangt.</p>
+                  <p>Zurzeit arbeite ich bei der deutschen Post und Postbank. Meine Tätigkeiten dort reichen von Kassiertätigkeiten und Inventuren über Kundenberatung bis hin zur gelegentlichen Vertretung der Filialleiterin. </p>
                 </div>
               </div>
             </div>
@@ -208,7 +207,7 @@ permalink: /
               <div class="col-md-9" data-aos="fade-left" data-aos-offset="50" data-aos-duration="500">
                 <div class="card-body">
                   <div class="h5">Praktikum</div>
-                  <p>Seit August 2020 arbeite ich als Praktikantin beim medizinischen Qualitätsnetz (BOViTA) Bochum. Zu meinen Aufgaben gehören das Innovationsmanagement und administrative Tätigkeiten. Darunter fällt das Vereinbaren von Terminen, sowie das Sammeln und Archivieren medizinischer Daten.</p>
+                  <p>Seit August 2020 arbeite ich als Praktikantin beim medizinischen Qualitätsnetz (BOViTA) Bochum. Zu meinen Aufgaben gehören das Innovationsmanagement und administrative Tätigkeiten, wie das Vereinbaren von Terminen, aber auch das Sammeln und Archivieren medizinischer Daten.</p>
                 </div>
               </div>
             </div>
