@@ -18,7 +18,8 @@ permalink: /
               <li class="nav-item"><a class="nav-link smooth-scroll" href="#about">Über Mich</a></li>
               <li class="nav-item"><a class="nav-link smooth-scroll" href="#education">Ausbildung</a></li>
               <li class="nav-item"><a class="nav-link smooth-scroll" href="#skill">Skills</a></li>
-              <li class="nav-item"><a class="nav-link smooth-scroll" href="#experience">Nebentätigkeiten</a></li>
+              <li class="nav-item"><a class="nav-link smooth-scroll" href="#experience">Nebenjobs</a></li>
+              <li class="nav-item"><a class="nav-link smooth-scroll" href="#voluntary">Ehrenamt</a></li>
               <li class="nav-item"><a class="nav-link smooth-scroll" href="#hobbies">Hobbies</a></li>
               <li class="nav-item"><a class="nav-link smooth-scroll" href="#contact">Kontakt</a></li>
               <!--  TODO: Seite übersetzen
@@ -60,38 +61,12 @@ permalink: /
         <div class="container">
           <div class="card" data-aos="fade-up" data-aos-offset="10">
             <div class="row">
-              <div class="col-lg-6 col-md-12">
+              <div class="col-lg-12 col-md-12">
                 <div class="card-body">
                   <div class="h4 mt-0 title">Über mich</div>
-                  <p>Hallo! Ich bin Niyousha Homay Nikfar. Medizintechnische Ingenieurin und Entwicklerin.</p>
-                  <p>Mein Traum ist es, nach meinem Studium etwas zu entwickeln, dass die Welt verändert. Ich möchte mein
-                  Wissen dazu nutzen, so vielen Menschen zu helfen, wie ich nur kann. Ich bin engagiert, risikofreudig und verlässlich.
-                  Bleib eine Weile und mach dir dein Bild von mir. Willkommen auf meiner Internetseite!</p>
-                </div>
-              </div>
-              <div class="col-lg-6 col-md-12">
-                <div class="card-body">
-                  <div class="h4 mt-0 title">Allgemeine Informationen</div>
-                  <div class="row">
-                    <div class="col-sm-4"><strong class="text-uppercase">Geboren:</strong></div>
-                    <div class="col-sm-8">1997</div>
-                  </div>
-                  <div class="row mt-3">
-                    <div class="col-sm-4"><strong class="text-uppercase">Email:</strong></div>
-                    <div class="col-sm-8">niyousha.nikfar@gmail.com</div>
-                  </div>
-                  <div class="row mt-3">
-                    <div class="col-sm-4"><strong class="text-uppercase">Telefon:</strong></div>
-                    <div class="col-sm-8">+49 176 34342760</div>
-                  </div>
-                  <div class="row mt-3">
-                    <div class="col-sm-4"><strong class="text-uppercase">Adresse:</strong></div>
-                    <div class="col-sm-8">Luisenstr. 9-13, 44787 Bochum</div>
-                  </div>
-                  <div class="row mt-3">
-                    <div class="col-sm-4"><strong class="text-uppercase">Sprache:</strong></div>
-                    <div class="col-sm-8">Deutsch, Englisch, Persisch</div>
-                  </div>
+                  <p>Hallo! Ich bin Niyousha Homay Nikfar. Angehende Medizintechnische Ingenieurin und Entwicklerin.</p>
+                  <p>Als ich 2016 mein Heimatland Iran als studierte Strahlenmedizintechnikerin verließ, hatte ich einen Traum. Ich wollte mein Wissen dafür einsetzen der Welt etwas wertvolles zu geben. Etwas, das meinen Mitmenschen hilft, ihre Lebensqualität erhöht und ihnen mehr Kraft und Gesundheit gibt, damit Sie mehr Zeit haben ihre eigenen Träume und Ziele zu verfolgen. Dabei bringe ich meine Kreativität und meine lebensfrohe Art in mein Studium und meine Arbeit ein. Ich bin engagiert, bereit Risiken einzugehen und jemand, dem man seine Aufgaben gerne anvertraut.
+                  Bleiben Sie eine Weile und machen Sie sich ein Bild von mir. Willkommen auf meiner Internetseite!</p>
                 </div>
               </div>
             </div>
@@ -113,7 +88,7 @@ permalink: /
                 <div class="card-body">
                   <div class="h5">Bachelor of Science in Biomedizintechnik</div>
                   <p class="category">Fachhochschule Dortmund</p>
-                  <p>Ich habe mich für das Studium an der Fachhochschule Dortmund entschieden, weil dort die Anwendung des gelernten praktiziert wird. Erfahrung habe ich in den Bereichen der Software- und Hardwareprogrammierung für medizinische Systeme und Geräte sammeln können, zu den weiteren Schwerpunkten meines Studiums gehören Bildgebende Verfahren der Medizintechnik, Signalverarbeitung und Messtechnik, Elektrophysiologische Messungen, Lehren über das Kardiovaskuläre System und die Kalibrierung von Sensordaten. </p>
+                  <p>Ich habe mich für das Studium an der Fachhochschule Dortmund entschieden, weil dort die Anwendung des Gelernten praktiziert wird. Sichere Kenntnisse habe ich in der Software- und Hardwareprogrammierung für medizinische Systeme und Geräte erworben. Zu den weiteren Schwerpunkten meines Studiums gehören Bildgebende Verfahren der Medizintechnik, Signalverarbeitung und Messtechnik, Elektrophysiologische Messungen, Lehren über das Kardiovaskuläre System und die Kalibrierung von Sensordaten. </p>
                 </div>
               </div>
             </div>
@@ -130,7 +105,7 @@ permalink: /
                 <div class="card-body">
                   <div class="h5">Bachelor of Science in Elektrotechnik</div>
                   <p class="category">Universität Duisburg-Essen</p>
-                  <p>Dieses Studium diente in erster Linie zur Überbrückung, da ich noch nicht die Möglichkeit hatte mein Wunschstudium zu beginnen. Ich habe die Zeit dort jedoch genutzt, um mein Wissen in den Bereichen der Elektrotechnik und technischen Informatik auszubauen, welche auch Bestandteil meines jetzigen Studiums sind.</p>
+                  <p>Ich hatte den großen Wunsch, in Deutschland an meine Kompetenzen und Interessen an den Inhalten aus meinem Studium der Strahlenmedizintechnik anzuknüpfen. Die Möglichkeit, mein Wunschstudium zu beginnen, hatte ich nicht auf Anhieb. Ich wollte jedoch auch gerne im Thema bleiben und meinem Ziel näherkommen. Dieses Studium diente folglich in erster Linie der Studienvorbereitung. Ich nutzte dort meine Zeit, um mich auf mein Wunschstudienfach vorzubereiten, und mein Wissen in den Bereichen der Elektrotechnik und technischen Informatik auszubauen, welche Bestandteil meines jetzigen Studiums sind.</p>
                 </div>
               </div>
             </div>
@@ -146,7 +121,7 @@ permalink: /
               <div class="col-md-9" data-aos="fade-left" data-aos-offset="50" data-aos-duration="500">
                 <div class="card-body">
                   <div class="h5">Studium der Strahlenmedizintechnik</div>
-                  <p class="category">Universität Azad Lahijan</p>
+                  <p class="category">Universität Azad Lahijan, Iran</p>
                   <p>Nach meinem Abitur habe ich das Studium der Strahlenmedizintechnik aufgenommen und in Regelstudienzeit absolviert. Hier habe ich erste Einblicke in die Welt der medizinischen Technik bekommen. Schwerpunkte dort waren medizinische Grundlagen, wie Physiologie, Anatomie, Biologie und Biochemie, sowie Nuklearwissenschaften und -technologien, Werkstofflehre, Thermodynamik und statistische Mechanik.</p>
                 </div>
               </div>
@@ -205,7 +180,7 @@ permalink: /
       </div>
       <div class="section" id="experience">
         <div class="container cc-experience">
-          <div class="h4 text-center mb-4 title">Nebentätigkeiten</div>
+          <div class="h4 text-center mb-4 title">Nebenjobs</div>
           <div class="card">
             <div class="row">
               <div class="col-md-3 bg-primary" data-aos="fade-right" data-aos-offset="50" data-aos-duration="500">
@@ -216,8 +191,8 @@ permalink: /
               </div>
               <div class="col-md-9" data-aos="fade-left" data-aos-offset="50" data-aos-duration="500">
                 <div class="card-body">
-                  <div class="h5">Nebenjob</div>
-                  <p>Zurzeit arbeite ich bei der deutschen Post und Postbank. Meine Tätigkeiten dort umfassen einfache Kassenaufgaben, Kundenberatung und Inventuren aber auch die gelegentliche Leitung der Filiale. Um mehr Verantwortung übernehmen zu können habe ich außerdem noch das silberne Kompetenz-Zertifikat erlangt.</p>
+                  <div class="h5">Mitarbeiterin</div>
+                  <p>Zurzeit arbeite ich bei der deutschen Post und Postbank. Meine Tätigkeiten dort reichen von Kassiertätigkeiten und Inventuren über Kundenberatung bis zur gelegentlichen Vertretung als Filialleiterin.  Um mehr Verantwortung übernehmen zu können, habe ich außerdem noch das silberne Kompetenz-Zertifikat erlangt.</p>
                 </div>
               </div>
             </div>
@@ -242,30 +217,35 @@ permalink: /
             <div class="row">
               <div class="col-md-3 bg-primary" data-aos="fade-right" data-aos-offset="50" data-aos-duration="500">
                 <div class="card-body cc-experience-header">
+                  <p>2014 - 2015</p>
+                  <div class="h5">Pischraft Schule, Iran</div>
+                </div>
+              </div>
+              <div class="col-md-9" data-aos="fade-left" data-aos-offset="50" data-aos-duration="500">
+                <div class="card-body">
+                  <div class="h5">Aushilfe</div>
+                  <p>Während meines Studiums in Strahlenmedizintechnik habe ich erste Erfahrungen im Arbeitsalltag als Aushilfe im Büro sammeln können. Zu meinem Alltag dort gehörte das Organisieren der Schuldaten am Computer und Unterstützung bei der Vorbereitung der Prüfungen und Veranstaltungen.</p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="section" id="voluntary">
+        <div class="container cc-experience">
+          <div class="h4 text-center mb-4 title">Ehrenamt</div>
+          <div class="card">
+            <div class="row">
+              <div class="col-md-3 bg-primary" data-aos="fade-right" data-aos-offset="50" data-aos-duration="500">
+                <div class="card-body cc-experience-header">
                   <p>2019 - Heute</p>
                   <div class="h5">FH Dortmund</div>
                 </div>
               </div>
               <div class="col-md-9" data-aos="fade-left" data-aos-offset="50" data-aos-duration="500">
                 <div class="card-body">
-                  <div class="h5">Ehrenamtlich</div>
-                  <p>Neben meinem Studium Interessiere ich mich auch für Hochschulpolitik und das Organisieren studentischer Projekte. Deshalb bin ich neben meinem Studium seit 2019 im Senat meiner Hochschule und der Fachschaft meines Fachbereiches und im Frauenprojektlabor tätig.</p>
-                </div>
-              </div>
-            </div>
-          </div>
-          <div class="card">
-            <div class="row">
-              <div class="col-md-3 bg-primary" data-aos="fade-right" data-aos-offset="50" data-aos-duration="500">
-                <div class="card-body cc-experience-header">
-                  <p>2014 - 2015</p>
-                  <div class="h5">Pischraft Schule</div>
-                </div>
-              </div>
-              <div class="col-md-9" data-aos="fade-left" data-aos-offset="50" data-aos-duration="500">
-                <div class="card-body">
-                  <div class="h5">Nebenjob</div>
-                  <p>Während meines Studiums in Strahlenmedizintechnik habe ich erste Erfahrungen im Arbeitsalltag als Aushilfe im Büro sammeln können. Zu meinem Alltag dort gehörte das Organisieren der Schuldaten am Computer und Unterstützung bei der Vorbereitung der Prüfungen und Veranstaltungen.</p>
+                  <div class="h5">Hochschulpolitik</div>
+                  <p>Neben meinem Studium an der Fachhochschule Dortmund interessiere ich mich auch für die dortige Hochschulpolitik und das Organisieren studentischer Projekte. Deshalb engagiere ich mich seit 2019 ehrenamtlich im Senat, in der Fachschaft meines Fachbereiches und dem Frauenprojektlabor der Fachhochschule Dortmund. </p>
                 </div>
               </div>
             </div>
@@ -286,7 +266,7 @@ permalink: /
                 <div class="card-body">
                   <div class="h5">Fachliteratur</div>
                   <p class="category">Und Sprüche auf Glückskeksen</p>
-                  <p>Nach einem anstrengenden Tag bin ich manchmal sehr froh darüber den Tag mit einem Buch abklingen zu lassen, egal ob gebunden, auf dem Handy oder vorgelesen. Besonders gefallen mir die Geschichten von erfolgreichen Menschen und die Psychologie dahinter. Ich fühle mich dadurch motivierter mich zu verbessern und meine Träume zu verfolgen.</p>
+                  <p>Nach einem anstrengenden Tag bin ich manchmal sehr froh darüber, den Tag mit einem Buch ausklingen zu lassen, egal ob gebunden, auf dem Handy oder vorgelesen. Besonders gefallen mir die Geschichten von erfolgreichen Menschen und die Psychologie dahinter. Ich fühle mich dadurch motivierter, mich zu verbessern und meine Träume zu verfolgen.</p>
                 </div>
               </div>
             </div>
@@ -349,10 +329,10 @@ permalink: /
                   <div class="card mb-0" data-aos="zoom-in">
                     <div class="h4 text-center title">Kontakt</div>
                     <div class="row">
-                      <div class="col-md-6">
+                      <div class="col-md-12">
                         <div class="card-body">
                           <form action="https://formspree.io/f/mzbkevqn" method="POST">
-                            <div class="p pb-3"><strong>Gerne kannst du mich kontaktieren</strong>
+                            <div class="p pb-3"><strong>Gerne können Sie mich kontaktieren</strong>
                             </div>
                             <div class="row mb-3">
                               <div class="col">
@@ -395,16 +375,6 @@ permalink: /
                               </div>
                             </div>
                           </form>
-                        </div>
-                      </div>
-                      <div class="col-md-6">
-                        <div class="card-body">
-                          <p class="mb-0"><strong>Adresse</strong></p>
-                          <p class="pb-2">Luisenstr. 9-13, 44787 Bochum</p>
-                          <p class="mb-0"><strong>Telefon</strong></p>
-                          <p class="pb-2">+49 176 34342760</p>
-                          <p class="mb-0"><strong>E-Mail</strong></p>
-                          <p>niyousha.nikfar@gmail.de</p>
                         </div>
                       </div>
                     </div>

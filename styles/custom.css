@@ -23,9 +23,8 @@
     .hobbie-image img {
         max-width: 80%
     }
-
     #fitness-image {
-      padding-top: 30px!important;
+        padding-top: 30px!important;
     }
 }
 
@@ -33,8 +32,15 @@
     .hobbie-image img {
         max-width: 50%
     }
-
     #fitness-image {
-      padding-top: 30px!important;
+        padding-top: 30px!important;
     }
+}
+
+input.form-control::placeholder {
+    color: #ababab;
+}
+
+textarea.form-control::placeholder {
+    color: #ababab;
 }
