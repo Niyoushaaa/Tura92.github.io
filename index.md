@@ -192,7 +192,7 @@ permalink: /
               <div class="col-md-9" data-aos="fade-left" data-aos-offset="50" data-aos-duration="500">
                 <div class="card-body">
                   <div class="h5">Mitarbeiterin</div>
-                  <p>Zurzeit arbeite ich bei der deutschen Post und Postbank. Meine Tätigkeiten dort reichen von Kassiertätigkeiten und Inventuren über Kundenberatung bis zur gelegentlichen Vertretung als Filialleiterin.  Um mehr Verantwortung übernehmen zu können, habe ich außerdem noch das silberne Kompetenz-Zertifikat erlangt.</p>
+                  <p>Zurzeit arbeite ich bei der deutschen Post und Postbank. Meine Tätigkeiten dort reichen von Kassiertätigkeiten und Inventuren über Kundenberatung bis zur gelegentlichen Vertretung als Filialleiterin. Um mehr Verantwortung übernehmen zu können, habe ich außerdem noch das silberne Kompetenz-Zertifikat erlangt.</p>
                 </div>
               </div>
             </div>
@@ -224,7 +224,7 @@ permalink: /
               <div class="col-md-9" data-aos="fade-left" data-aos-offset="50" data-aos-duration="500">
                 <div class="card-body">
                   <div class="h5">Aushilfe</div>
-                  <p>Während meines Studiums in Strahlenmedizintechnik habe ich erste Erfahrungen im Arbeitsalltag als Aushilfe im Büro sammeln können. Zu meinem Alltag dort gehörte das Organisieren der Schuldaten am Computer und Unterstützung bei der Vorbereitung der Prüfungen und Veranstaltungen.</p>
+                  <p>Während meines Studiums der Strahlenmedizintechnik habe ich erste Erfahrungen im Arbeitsalltag als Aushilfe im Büro sammeln können. Zu meinen Aufgaben dort gehörte das Organisieren der Schuldaten am Computer und Unterstützung bei der Vorbereitung der Prüfungen und Veranstaltungen.</p>
                 </div>
               </div>
             </div>
@@ -356,7 +356,7 @@ permalink: /
                               <div class="col">
                                 <div class="input-group"><span class="input-group-addon"><i
                                       class="fa fa-envelope"></i></span>
-                                  <input class="form-control" type="email" name="_replyto" placeholder="E-mail"
+                                  <input class="form-control" type="email" name="_replyto" placeholder="E-Mail"
                                     required="required" />
                                 </div>
                               </div>
