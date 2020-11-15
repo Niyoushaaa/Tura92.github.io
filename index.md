@@ -65,7 +65,7 @@ permalink: /
                 <div class="card-body">
                   <div class="h4 mt-0 title">Über mich</div>
                   <p>Hallo! Ich bin Niyousha Homay Nikfar. Angehende Medizintechnische Ingenieurin und Entwicklerin.</p>
-                  <p>Als ich 2016 mein Heimatland Iran als studierte Strahlenmedizintechnikerin verließ, hatte ich einen Traum. Ich wollte mein Wissen dafür einsetzen der Welt etwas wertvolles zu geben. Etwas, das meinen Mitmenschen hilft, ihre Lebensqualität erhöht und ihnen mehr Kraft und Gesundheit gibt, damit Sie mehr Zeit haben ihre eigenen Träume und Ziele zu verfolgen. Dabei bringe ich meine Kreativität und meine lebensfrohe Art in mein Studium und meine Arbeit ein. Ich bin engagiert, bereit Risiken einzugehen und jemand, dem man seine Aufgaben gerne anvertraut.
+                  <p>Als ich 2016 mein Heimatland Iran als studierte Strahlenmedizintechnikerin verließ, hatte ich einen Traum. Ich wollte mein Wissen dafür einsetzen der Welt etwas wertvolles zu geben. Etwas, das meinen Mitmenschen hilft, ihre Lebensqualität erhöht und ihnen mehr Kraft und Gesundheit gibt, damit Sie mehr Zeit haben ihre eigenen Träume und Ziele zu verfolgen. Dabei bringe ich meine Kreativität und meine lebensfrohe Art in mein Studium und meine Arbeit ein. Ich bin engagiert, bereit Risiken einzugehen und jemand, dem man seine Aufgaben gerne anvertraut. Ein großer Dank an dieser Stelle geht an meine Familie, die mich auf meiner Reise nach Deutschland unterstützt hat und auch an meine Freunde hier, die mich stützen und auf dieser Reise begleiten. 
                   Bleiben Sie eine Weile und machen Sie sich ein Bild von mir. Willkommen auf meiner Internetseite!</p>
                 </div>
               </div>
