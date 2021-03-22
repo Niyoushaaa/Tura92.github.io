@@ -65,7 +65,7 @@ permalink: /
                 <div class="card-body">
                   <div class="h4 mt-0 title">Über mich</div>
                   <p>Hallo! Ich bin Niyousha Homay Nikfar. Angehende Medizintechnische Ingenieurin und Entwicklerin.</p>
-                  <p>Als ich 2016 mein Heimatland Iran als studierte Strahlenmedizintechnikerin verließ, hatte ich einen Traum. Ich wollte mein Wissen dafür einsetzen der Welt etwas wertvolles zu geben. Etwas, das den Menschen hilft, ihre Lebensqualität erhöht und ihnen mehr Kraft und Gesundheit gibt, damit Sie mehr Zeit haben ihre eigenen Träume und Ziele zu verfolgen. Dabei bringe ich meine Kreativität und meine lebensfrohe Art in mein Studium und meine Arbeit ein. Ich bin engagiert, bereit Risiken einzugehen und jemand, dem man seine Aufgaben gerne anvertraut. Bleiben Sie eine Weile und machen Sie sich ein Bild von mir. Willkommen auf meiner Internetseite!</p>
+                  <p>Ich hatte immer den Traum mich dafür einzusetzen der Welt etwas wertvolles zu geben. Etwas, das den Menschen hilft, ihre Lebensqualität erhöht und ihnen mehr Kraft und Gesundheit gibt, damit Sie mehr Zeit haben ihre eigenen Träume und Ziele zu verfolgen. Deshalb habe ich mich für das Studium der Biomedizintechnik entschieden. Dabei bringe ich meine Kreativität und meine lebensfrohe Art in mein Studium und meine Arbeit ein. Ich bin engagiert, bereit Risiken einzugehen und jemand, dem man seine Aufgaben gerne anvertraut. Bleiben Sie eine Weile und machen Sie sich ein Bild von mir. Willkommen auf meiner Internetseite! &#128519;</p>
                 </div>
               </div>
             </div>
@@ -80,7 +80,7 @@ permalink: /
               <div class="col-md-3 bg-primary" data-aos="fade-right" data-aos-offset="50" data-aos-duration="500">
                 <div class="card-body cc-education-header">
                   <p>2018 - Heute</p>
-                  <div class="h5">Bachelor Studium</div>
+                  <div class="h5">BACHELOR</div>
                 </div>
               </div>
               <div class="col-md-9" data-aos="fade-left" data-aos-offset="50" data-aos-duration="500">
@@ -97,14 +97,15 @@ permalink: /
               <div class="col-md-3 bg-primary" data-aos="fade-right" data-aos-offset="50" data-aos-duration="500">
                 <div class="card-body cc-education-header">
                   <p>2017 - 2018</p>
-                  <div class="h5">Bachelor Studium</div>
+                  <div class="h5">BACHELOR</div>
                 </div>
               </div>
               <div class="col-md-9" data-aos="fade-left" data-aos-offset="50" data-aos-duration="500">
                 <div class="card-body">
                   <div class="h5">Bachelor of Science in Elektrotechnik</div>
                   <p class="category">Universität Duisburg-Essen</p>
-                  <p>Ich hatte den großen Wunsch, in Deutschland an meine Kompetenzen und Interessen an den Inhalten aus meinem Studium der Strahlenmedizintechnik anzuknüpfen. Die Möglichkeit, mein Wunschstudium zu beginnen, hatte ich nicht auf Anhieb. Ich wollte jedoch auch gerne im Thema bleiben und meinem Ziel näherkommen. Dieses Studium diente folglich in erster Linie der Studienvorbereitung. Ich nutzte dort meine Zeit, um mich auf mein Wunschstudienfach vorzubereiten, und mein Wissen in den Bereichen der Elektrotechnik und technischen Informatik auszubauen, welche Bestandteil meines jetzigen Studiums sind.</p>
+                  <!-- Ich hatte den großen Wunsch, in Deutschland an meine Kompetenzen und Interessen an den Inhalten aus meinem Studium der Strahlenmedizintechnik anzuknüpfen. Die Möglichkeit, mein Wunschstudium zu beginnen, hatte ich nicht auf Anhieb. Ich wollte jedoch auch gerne im Thema bleiben und meinem Ziel näherkommen. Dieses Studium diente folglich in erster Linie der Studienvorbereitung. Ich nutzte dort meine Zeit, um mich auf mein Wissen in den Bereichen der Elektrotechnik und technischen Informatik auszubauen, welche Bestandteil meines jetzigen Studiums sind.  -->
+                  <p>Dieses Studium diente in erster Linie der Studienvorbereitung auf meinem Wunschstudium Medizintechnik. Ich nutzte dort meine Zeit, um mich auf mein Wissen in den Bereichen der Elektrotechnik und technischen Informatik auszubauen, welche Bestandteil meines jetzigen Studiums sind.</p>
                 </div>
               </div>
             </div>
@@ -114,14 +115,14 @@ permalink: /
               <div class="col-md-3 bg-primary" data-aos="fade-right" data-aos-offset="50" data-aos-duration="500">
                 <div class="card-body cc-education-header">
                   <p>2014 - 2016</p>
-                  <div class="h5">Obermatura</div>
+                  <div class="h5">OBERMATURA</div>
                 </div>
               </div>
               <div class="col-md-9" data-aos="fade-left" data-aos-offset="50" data-aos-duration="500">
                 <div class="card-body">
                   <div class="h5">Studium der Strahlenmedizintechnik</div>
                   <p class="category">Universität Azad Lahijan, Iran</p>
-                  <p>Nach meinem Abitur habe ich das Studium der Strahlenmedizintechnik aufgenommen und in Regelstudienzeit absolviert. Hier habe ich erste Einblicke in die Welt der medizinischen Technik bekommen. Schwerpunkte dort waren medizinische Grundlagen, wie Physiologie, Anatomie, Biologie und Biochemie, sowie Nuklearwissenschaften und -technologien, Werkstofflehre, Thermodynamik und statistische Mechanik.</p>
+                  <p>Nach meinem Abitur habe ich das Studium der Strahlenmedizintechnik aufgenommen. Hier habe ich erste Einblicke in die Welt der medizinischen Technik bekommen. Schwerpunkte dort waren medizinische Grundlagen, wie Physiologie, Anatomie, Biologie und Biochemie, sowie Nukleartechnologien und Werkstofflehre.</p>
                 </div>
               </div>
             </div>
@@ -184,14 +185,14 @@ permalink: /
             <div class="row">
               <div class="col-md-3 bg-primary" data-aos="fade-right" data-aos-offset="50" data-aos-duration="500">
                 <div class="card-body cc-experience-header">
-                  <p>2018 - 2021</p>
-                  <div class="h5">Deutsche Postbank</div>
+                  <p>03.21 - heute</p>
+                  <div class="h5">Kbv</div>
                 </div>
               </div>
               <div class="col-md-9" data-aos="fade-left" data-aos-offset="50" data-aos-duration="500">
                 <div class="card-body">
-                  <div class="h5">Mitarbeiterin</div>
-                  <p>Zurzeit arbeite ich bei der deutschen Post und Postbank. Meine Tätigkeiten dort reichen von Kassiertätigkeiten und Inventuren über Kundenberatung bis hin zur gelegentlichen Vertretung der Filialleiterin. </p>
+                  <div class="h5">Kundenberaterin</div>
+                  <p>Zurzeit arbeite ich als Kundenberaterin bei der Kassenärztliche Bundesvereinigung. Hier bin ich insbesondere verantwortlich für die Beantwortung allgemeiner Fragen rund um den Prozess zur Corona-Impfung, Prüfung personenbezogener Daten, Vergeben von Terminen für Impfzentren und dem Versenden und Archivieren von Dokumenten.</p>
                 </div>
               </div>
             </div>
@@ -200,14 +201,30 @@ permalink: /
             <div class="row">
               <div class="col-md-3 bg-primary" data-aos="fade-right" data-aos-offset="50" data-aos-duration="500">
                 <div class="card-body cc-experience-header">
-                  <p>2020 - Heute</p>
+                  <p>01.18 - 03.21</p>
+                  <div class="h5">Deutsche Post/Postbank</div>
+                </div>
+              </div>
+              <div class="col-md-9" data-aos="fade-left" data-aos-offset="50" data-aos-duration="500">
+                <div class="card-body">
+                  <div class="h5">Mitarbeiterin</div>
+                  <p>Kassiertätigkeiten und Inventuren, Kundenberatung und die gelegentlichen Vertretung der Filialleiterin, haben hier meinen Aufgabenbereich gebildet. Letzteres trug besonders dazu bei meine Fähigkeiten im Leiten von Teams auszubauen.</p>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="card">
+            <div class="row">
+              <div class="col-md-3 bg-primary" data-aos="fade-right" data-aos-offset="50" data-aos-duration="500">
+                <div class="card-body cc-experience-header">
+                  <p>07.20 - 01.21</p>
                   <div class="h5">MedQN Bochum</div>
                 </div>
               </div>
               <div class="col-md-9" data-aos="fade-left" data-aos-offset="50" data-aos-duration="500">
                 <div class="card-body">
                   <div class="h5">Praktikum</div>
-                  <p>Seit August 2020 arbeite ich als Praktikantin beim medizinischen Qualitätsnetz (BOViTA) Bochum. Zu meinen Aufgaben gehören das Innovationsmanagement und administrative Tätigkeiten, wie das Vereinbaren von Terminen, aber auch das Sammeln und Archivieren medizinischer Daten.</p>
+                  <p>Zu meinen Aufgaben beim medizinischen Qualitätsnetz gehörten das Innovationsmanagement und administrative Tätigkeiten, wie das Vereinbaren von Terminen, aber auch das Sammeln und Archivieren medizinischer Daten.</p>
                 </div>
               </div>
             </div>
@@ -216,7 +233,7 @@ permalink: /
             <div class="row">
               <div class="col-md-3 bg-primary" data-aos="fade-right" data-aos-offset="50" data-aos-duration="500">
                 <div class="card-body cc-experience-header">
-                  <p>2014 - 2015</p>
+                  <p>10.14 - 05.15</p>
                   <div class="h5">Pischraft Schule, Iran</div>
                 </div>
               </div>
@@ -238,7 +255,7 @@ permalink: /
               <div class="col-md-3 bg-primary" data-aos="fade-right" data-aos-offset="50" data-aos-duration="500">
                 <div class="card-body cc-experience-header">
                   <p>2019 - Heute</p>
-                  <div class="h5">FH Dortmund</div>
+                  <div class="h5">Senat, Fachschaft</div>
                 </div>
               </div>
               <div class="col-md-9" data-aos="fade-left" data-aos-offset="50" data-aos-duration="500">
