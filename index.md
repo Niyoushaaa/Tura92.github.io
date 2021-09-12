@@ -185,14 +185,30 @@ permalink: /
             <div class="row">
               <div class="col-md-3 bg-primary" data-aos="fade-right" data-aos-offset="50" data-aos-duration="500">
                 <div class="card-body cc-experience-header">
-                  <p>03.21 - heute</p>
+                  <p>09.21 - heute</p>
+                  <div class="h5">StuBe FB Informations-technik</div>
+                </div>
+              </div>
+              <div class="col-md-9" data-aos="fade-left" data-aos-offset="50" data-aos-duration="500">
+                <div class="card-body">
+                  <div class="h5">Studienberaterin</div>
+                  <p>Zu meinen Aufgaben gehört das Informieren von Studierenden und Studieninteressierten über das Studium im jeweiligen Studiengang aus studentischer Sicht - per E-Mail und Video, telefonisch und, wenn möglich, persönlich in wöchentlichen Sprechstunden, in Gruppenformaten sowie über die Lernpartnerbörse.<br/>Darüber hinaus unterstütze ich die Allgemeine Studienberatung bei studiengangsbezogenen Informationsformaten für Schülerinnen und Studieninteressierte an der Fachhochschule, in Schulen und auf Messen.</p>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="card">
+            <div class="row">
+              <div class="col-md-3 bg-primary" data-aos="fade-right" data-aos-offset="50" data-aos-duration="500">
+                <div class="card-body cc-experience-header">
+                  <p>03.21 - 07.21</p>
                   <div class="h5">Kbv</div>
                 </div>
               </div>
               <div class="col-md-9" data-aos="fade-left" data-aos-offset="50" data-aos-duration="500">
                 <div class="card-body">
                   <div class="h5">Kundenberaterin</div>
-                  <p>Zurzeit arbeite ich als Kundenberaterin bei der Kassenärztliche Bundesvereinigung. Hier bin ich insbesondere verantwortlich für die Beantwortung allgemeiner Fragen rund um den Prozess zur Corona-Impfung, Prüfung personenbezogener Daten, Vergeben von Terminen für Impfzentren und dem Versenden und Archivieren von Dokumenten.</p>
+                  <p>Kundenberaterin bei der Kassenärztliche Bundesvereinigung. Hier war ich insbesondere verantwortlich für die Beantwortung allgemeiner Fragen rund um den Prozess zur Corona-Impfung, Prüfung personenbezogener Daten, Vergeben von Terminen für Impfzentren und dem Versenden und Archivieren von Dokumenten.</p>
                 </div>
               </div>
             </div>
@@ -275,7 +291,7 @@ permalink: /
             <div class="row">
               <div class="col-md-3" data-aos="fade-right" data-aos-offset="50" data-aos-duration="500">
                 <div class="card-body cc-education-header hobbie-image">
-                  <img src="images/book-image.png">
+                  <img src="images/book-image.png" class="pt-4">
                 </div>
               </div>
               <div class="col-md-9" data-aos="fade-left" data-aos-offset="50" data-aos-duration="500">
@@ -315,6 +331,22 @@ permalink: /
                   <div class="h5">Musik</div>
                   <p class="category">Meine Nachbarn lieben mich</p>
                   <p>Musik liebe ich schon seit meiner Kindheit. Ich singe sehr gerne und spiele nebenbei Gitarre. Von 2017 bis 2019 war ich Mitglied der X-Vision Band in der Musikschule Wattenscheid. Dort hatte ich die Gelegenheit mit internationalen Menschen zu musizieren und auf die Bühne zu gehen.</p>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="card">
+            <div class="row">
+              <div class="col-md-3" data-aos="fade-right" data-aos-offset="50" data-aos-duration="500">
+                <div class="card-body cc-education-header hobbie-image">
+                  <img src="images/kunst.png" class="pt-4">
+                </div>
+              </div>
+              <div class="col-md-9" data-aos="fade-left" data-aos-offset="50" data-aos-duration="500">
+                <div class="card-body">
+                  <div class="h5">Kunst</div>
+                  <p class="category">Fast ein Picasso</p>
+                  <p>Eines meiner neusten alten Hobbies ist es zu malen oder zu basteln. Dabei kann ich meiner Fantaise freien Lauf lassen und richtig entspannen. Ich habe schon als Kind gerne gemalt, bin dem jedoch lange Zeit nicht nachgegangen. In letzter Zeit habe ich jedoch meine Leidenschaft wieder dafür entdeckt. Besonders gerne male ich mit Acrylfarben auf kleinen Leinwänden.</p>
                 </div>
               </div>
             </div>
