@@ -185,14 +185,35 @@ permalink: /
             <div class="row">
               <div class="col-md-3 bg-primary" data-aos="fade-right" data-aos-offset="50" data-aos-duration="500">
                 <div class="card-body cc-experience-header">
-                  <p>09.21 - heute</p>
+                  <p>09.21 - Heute</p>
                   <div class="h5">StuBe FB Informations-technik</div>
                 </div>
               </div>
               <div class="col-md-9" data-aos="fade-left" data-aos-offset="50" data-aos-duration="500">
                 <div class="card-body">
                   <div class="h5">Studienberaterin</div>
-                  <p>Zu meinen Aufgaben gehört das Informieren von Studierenden und Studieninteressierten über das Studium im jeweiligen Studiengang aus studentischer Sicht - per E-Mail und Video, telefonisch und, wenn möglich, persönlich in wöchentlichen Sprechstunden, in Gruppenformaten sowie über die Lernpartnerbörse.<br/>Darüber hinaus unterstütze ich die Allgemeine Studienberatung bei studiengangsbezogenen Informationsformaten für Schülerinnen und Studieninteressierte an der Fachhochschule, in Schulen und auf Messen.</p>
+                  <p>An meiner Fachhochschule arbeite ich zur Zeit als Studienberaterin.
+                  Einmal die Woche biete ich Studierenden und Studieninteressierten eine Videosprechstunde an, um mir alle Fragen rund um das Studium zu stellen oder Schülern bei 
+                  ihrer Suche nach einem für sie geeigneten Studienfach zu helfen. Außerdem helfe ich bei der Koordination von Messen und biete meine Unterstützung bei der Lernpartnerbörse. 
+                  </p>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="card">
+            <div class="row">
+              <div class="col-md-3 bg-primary" data-aos="fade-right" data-aos-offset="50" data-aos-duration="500">
+                <div class="card-body cc-experience-header">
+                  <p>08.21 - 02.22</p>
+                  <div class="h5">VISUS Health IT GmbH</div>
+                </div>
+              </div>
+              <div class="col-md-9" data-aos="fade-left" data-aos-offset="50" data-aos-duration="500">
+                <div class="card-body">
+                  <div class="h5">Praktikum</div>
+                  <p>
+                    Bei Visus absolviere ich momentan mein Praxissemester. Hier bekomme ich Einblicke in den Bereich eHealth. Auf meinem Tagesplan stehen häufig Markt und Wettbewerbsanalyse, was mir einen weiten Überblick über den Fachbereich verschafft. Meistens habe ich meine Recherchen dann meinen Kollegen präsentiert. Nebenbei beschäftige ich mich mit der Aufstellung interner Statistiken und der Recherche zu spezifischen Themen.
+                  </p>
                 </div>
               </div>
             </div>
