@@ -87,7 +87,7 @@ permalink: /
                 <div class="card-body">
                   <div class="h5">Bachelor of Science in Biomedizintechnik</div>
                   <p class="category">Fachhochschule Dortmund</p>
-                  <p>Ich habe mich für das Studium an der Fachhochschule Dortmund entschieden, weil dort die Anwendung des Gelernten praktiziert wird. Sichere Kenntnisse habe ich in der Software- und Hardwareprogrammierung für medizinische Systeme und Geräte erworben. Zu den weiteren Schwerpunkten meines Studiums gehören Bildgebende Verfahren der Medizintechnik, Signalverarbeitung und Messtechnik, Elektrophysiologische Messungen, Lehren über das Kardiovaskuläre System und die Kalibrierung von Sensordaten. </p>
+                  <p>Ich habe mich für das Studium an der Fachhochschule Dortmund entschieden, weil dort die Anwendung des Gelernten praktiziert wird. Sichere Kenntnisse habe ich in der Software- und Hardwareprogrammierung für medizinische Systeme und Geräte erworben. Zu den weiteren Schwerpunkten meines Studiums gehören eHealth, Bildgebende Verfahren in der Medizintechnik, Signalverarbeitung und Messtechnik. Außerdem Lehren über das Kardiovaskuläre System. </p>
                 </div>
               </div>
             </div>
