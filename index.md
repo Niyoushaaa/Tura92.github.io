@@ -64,7 +64,7 @@ permalink: /
               <div class="col-lg-12 col-md-12">
                 <div class="card-body">
                   <div class="h4 mt-0 title">Über mich</div>
-                  <p>salam salam salam Hallo! Ich bin Niyousha Homay Nikfar. Angehende Medizintechnische Ingenieurin und Entwicklerin.</p>
+                  <p>Hallo! Ich bin Niyousha Homay Nikfar. Angehende Medizintechnische Ingenieurin und Entwicklerin.</p>
                   <p>Ich hatte immer den Traum mich dafür einzusetzen der Welt etwas wertvolles zu geben. Etwas, das den Menschen hilft, ihre Lebensqualität erhöht und ihnen mehr Kraft und Gesundheit gibt, damit Sie mehr Zeit haben ihre eigenen Träume und Ziele zu verfolgen. Deshalb habe ich mich für das Studium der Biomedizintechnik entschieden. Dabei bringe ich meine Kreativität und meine lebensfrohe Art in mein Studium und meine Arbeit ein. Ich bin engagiert, bereit Risiken einzugehen und jemand, dem man seine Aufgaben gerne anvertraut. Bleiben Sie eine Weile und machen Sie sich ein Bild von mir. Willkommen auf meiner Internetseite! &#128519;</p>
                 </div>
               </div>
