@@ -21,5 +21,5 @@ permalink: /
 	</style>
 </head>
 <body>
-	<h1>Ich hasse dich...leider nicht.</h1>
+	<h1>Hier war mal Liebe</h1>
 </body>
