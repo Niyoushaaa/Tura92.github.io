@@ -4,7 +4,7 @@ permalink: /
 ---
 
 <head>
-	<title>Fick dich!</title>
+	<title>Niyoushas Website</title>
 	<style>
 		body {
 			display: flex;
@@ -21,5 +21,5 @@ permalink: /
 	</style>
 </head>
 <body>
-	<h1>Ich hasse dich</h1>
+	<h1>Ich hasse dich...leider nicht.</h1>
 </body>
